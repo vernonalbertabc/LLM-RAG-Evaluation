@@ -21,10 +21,6 @@ This project provides a comprehensive evaluation framework for Large Language Mo
 # Install dependencies using Poetry
 poetry install
 
-# Or using pip
-pip install -e .
-```
-
 ## Troubleshooting
 
 ### Common Issues
@@ -45,11 +41,8 @@ pip install -e .
 ### Step 1: Install Dependencies
 
 ```bash
-# Using Poetry (recommended)
+# Using Poetry 
 poetry install
-
-# Or using pip
-pip install -e .
 ```
 
 ### Step 2: Set Up Environment Variables
