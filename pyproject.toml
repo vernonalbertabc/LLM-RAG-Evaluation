@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "llm_evaluation"
+version = "0.1.0"
+description = "Case Study for Data Scientist / Machine Learning Engineer with LangChain RAG pipeline"
+authors = ["Your Name <your@email.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+langchain = ">=0.2.0"
+chromadb = "^0.4.24"
+openai = "^1.14.3"
+sentence-transformers = "^2.6.1"
+tiktoken = ">=0.7"
+# For local LLM/embedding support (optional, comment out if not needed)
+ollama = "*"
+ruff = "^0.12.0"
+mlflow = {extras = ["genai"], version = "^3.1.4"}
+nltk = "^3.9.1"
+bert-score = "^0.3.13"
+langchain-openai = "^0.3.28"
+langchain-community = "^0.3.27"
+beautifulsoup4 = "^4.13.4"
+rouge-score = "^0.1.2"
+ragas = "^0.3.0"
+numpy = "<2.0"
+datasets = "^4.0.0"
+chonkie = {extras = ["viz"], version = "^1.1.1"}
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+ipykernel = "^6.30.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

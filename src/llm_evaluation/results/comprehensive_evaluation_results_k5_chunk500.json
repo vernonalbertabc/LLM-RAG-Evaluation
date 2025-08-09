@@ -1,0 +1,155 @@
+{
+  "evaluation_type": "rag_chain_comprehensive",
+  "questions": [
+    {
+      "question": "What is OMV's current debt level and financial leverage position in 2025?",
+      "generated_answer": "As of the first quarter of 2025, OMV's financial leverage remains strong, with a leverage ratio at a low 12%. This indicates that the company's debt levels are manageable relative to its earnings, showcasing a favorable risk profile. The net debt has remained stable, which suggests effective debt management and the absence of significant financial strain. Additionally, OMV boasts a robust cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities, further supporting its financial liquidity and ability to navigate market volatility. Overall, these factors affirm OMV's commitment to maintaining an investment-grade credit rating and a sustainable debt strategy.",
+      "ground_truth_answer": "OMV's net debt was stable and their leverage ratio stayed low at 12%. At the end of March 2025, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities.",
+      "relevant_chunks": [
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities"
+      ],
+      "retrieved_chunks": [
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace",
+        "These transactions create immediate value for OMV as they are free cash flow and clean CCS EPS accretive. At the same time, OMV maintains its investment-grade credit rating and keeps its leverage ratio well below 30%. The combined strength of the 3 companies will position Borouge Group International well to generate attractive shareholder returns. We expect a lower dividend net to OMV of around $1 billion per year, which will further strengthen OMV's shareholder distributions. We anticipate",
+        "OMV Q4 2024 Conference Call \u2013 Q&A Transcript; February 4, 2025 1\nOMV Q4 2024 Conference Call \u2013 Q&A Transcript\nOMV published its results for Q4 2024 on February 4, 2025. The investor and analyst conference call was broadcast\nas a live audio\u2013webcast at 11:30 am CET. Below is the transcript of the question and answer session, by topic,\nedited for clarity.\nOMV Group 1\nDividend 1\nM&A 1\nChemicals 3\nMargins 3\nCAPEX 3\nUtilization rates 4\nInventory effects 4\nBorouge 4 4\nBaystar 5\nFuels & Feedstock 5",
+        "the quarter and will discuss OMV's financial performance. Following his presentation, the gentlemen are available to answer your questions.",
+        "OMV AG (OTCPK:OMVJF) Q1 2025 Results Conference Call April 30, 2025 5:30 AM ET\n\nCompany Participants\n\nFlorian Greger - Head, Investor Relations\nReinhard Florey - Chief Financial Officer\nBerislav Gaso - Executive VP of Energy & Member of Executive Board\nMartijn Arjen van Koten - Executive VP of New Fuels & Feedstock\n\nConference Call Participants"
+      ],
+      "rouge_scores": {
+        "rougeL_f1": 0.36,
+        "rougeL_precision": 0.24545454545454545,
+        "rougeL_recall": 0.675
+      },
+      "relevancy_score": 0.9199615716934204,
+      "faithfulness_score": 0.42857142857142855,
+      "retrieval_scores": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "ndcg": 1.0
+      }
+    },
+    {
+      "question": "What were OMV's Q4 2024 financial results and key performance indicators?",
+      "generated_answer": "As of the Q4 2024 results reported on February 4, 2025, OMV displayed solid financial performance. Key metrics included organic free cash flow before dividends amounting to EUR 441 million, underscoring healthy operational cash generation. The company maintained a strong balance sheet with stable net debt and a low leverage ratio of 12%, indicating prudent financial management. OMV's cash position stood robust at EUR 6.5 billion, supplemented by EUR 4.2 billion in undrawn committed credit facilities. These indicators reflect OMV's capacity to weather market volatility and positions the company favorably for potential strategic investments or weathering uncertainties, such as ongoing tariff discussions.",
+      "ground_truth_answer": "OMV's Q4 2025 financial results and key performance indicators (KPIs) are summarized below based on the provided data: Financial Performance Highlights (Q4 2025): Clean CCS Operating Result: ~EUR 1.2 billion, down 22% YoY (vs. Q4 2024) and 16% QoQ (vs. Q3 2025). Decline mainly due to the absence of arbitration-related gains in gas marketing/power seen in Q4 2024. Clean CCS EPS: EUR 1.26. Cash Flow from Operating Activities: ~EUR 1.4 billion, up 30%+ from Q3 2025, indicating strong cash generation despite lower production. Key Operational KPIs: Polyolefin Sales Volumes (including JVs): up 10% YoY. Fuel Sales Volumes: Remained broadly stable. Hydrocarbon Production: down 12% YoY due to Malaysian asset divestment. European Crackers Utilization Rate: up 3 percentage points to 90%. Base Chemicals Business declined due to lower inventory valuation effects, decreased stock advantage, and higher customer discounts. Polyolefins Segment lower performance from higher fixed costs and lower realized margins. Dividend & Capital Structure: Regular Dividend Increased by EUR 0.10, continuing the progressive dividend policy. Payout ratio remains in the 20%\u201330% range, near the upper end, reflecting confidence and commitment to shareholder returns. Net Debt & Leverage: Leverage ratio well below 30% (specifically noted as 12% at the end of Q1 2025). Cash Position (as of end-Q1 2025): EUR 6.5 billion. Undrawn Credit Facilities: EUR 4.2 billion. Investment & Strategic Moves: Organic free cash flow before dividends (Q1 2025): EUR 441 million. Ongoing major investments: NextonDeep, PDH plant (Belgium), sorting plant (Germany). Divestments: Malaysian assets (impacted hydrocarbon production). Future Outlook: Expect polyolefin volumes to reach ~4.1 million tonnes in 2025 (excluding JVs). Tariff impacts on chemical markets still uncertain.",
+      "relevant_chunks": [
+        "Regarding the dividends, the percentage that we chose in the range of 20% to 30% once again is a very high percentage. So it is in the upper end of the upper half of the range and the difference to the payout ratio in last year is only in the decimals. So therefore, we see that this is actually a signal of strength, a signal of confidence that we",
+        "have, that in spite of many challenges that we see in the economic environment, we are rewarding our shareholders as we promised and keep the payout ratio at the upper end of the range. When it comes to the increase of the regular dividend with our progressive dividend policy, again, we kept our promise to increase. And we increased that by EUR 0.10. And again, this is not much different than last year. If you put it in percentages, yes, it's slightly lower, but that has a reason. The reason actually is that, of course, the higher you get, the more important it is to also keep a certain balance between the additional variable dividend and the regular dividend.",
+        "The clean operating results of Energy segment declined by EUR 142 million to EUR 910 million as a better E&P result could not compensate for the lower gas marketing and power contribution. The performance of E&P improved, driven by positive market effects of around EUR 14 million. Gas prices rose significantly compared with the first quarter of 2024, while oil prices decreased.",
+        "At around EUR 1.4 billion cash flow from operating activities was strong, rising by 32% compared with the previous quarter. However, it was 26% below the very strong first quarter of last year, which had benefited from a higher result and higher dividends from ADNOC Refining. Net working capital effects were around neutral. The organic cash flow from investing activities was around EUR 1 billion, mainly related to ordinary ongoing business investments and major growth projects such as",
+        "NextonDeep, the PDH plant in Belgium and the sorting plant in Germany.",
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities"
+      ],
+      "retrieved_chunks": [
+        "the quarter and will discuss OMV's financial performance. Following his presentation, the gentlemen are available to answer your questions.",
+        "OMV Q4 2024 Conference Call \u2013 Q&A Transcript; February 4, 2025 1\nOMV Q4 2024 Conference Call \u2013 Q&A Transcript\nOMV published its results for Q4 2024 on February 4, 2025. The investor and analyst conference call was broadcast\nas a live audio\u2013webcast at 11:30 am CET. Below is the transcript of the question and answer session, by topic,\nedited for clarity.\nOMV Group 1\nDividend 1\nM&A 1\nChemicals 3\nMargins 3\nCAPEX 3\nUtilization rates 4\nInventory effects 4\nBorouge 4 4\nBaystar 5\nFuels & Feedstock 5",
+        "OMV AG (OTCPK:OMVJF) Q1 2025 Results Conference Call April 30, 2025 5:30 AM ET\n\nCompany Participants\n\nFlorian Greger - Head, Investor Relations\nReinhard Florey - Chief Financial Officer\nBerislav Gaso - Executive VP of Energy & Member of Executive Board\nMartijn Arjen van Koten - Executive VP of New Fuels & Feedstock\n\nConference Call Participants",
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace",
+        "distribution at a re-contribution when it comes to the cash payment from Borouge 4.\nOMV Q4 2024 Conference Call \u2013 Q&A Transcript; February 4, 2025 5\nBaystar\nQuestion by Peter Low \u2013 Redburn:\nWhat is the path to profitability for the Baystar asset? Do you need to see a recovery in industry margins? Are there\noperational improvements still to come there? Perhaps what could that contribution look like?\nAnswer by Reinhard Florey:"
+      ],
+      "rouge_scores": {
+        "rougeL_f1": 0.1514360313315927,
+        "rougeL_precision": 0.27358490566037735,
+        "rougeL_recall": 0.10469314079422383
+      },
+      "relevancy_score": 0.8703115880489349,
+      "faithfulness_score": 0.07692307692307693,
+      "retrieval_scores": {
+        "precision": 0.2,
+        "recall": 0.16666666666666666,
+        "ndcg": 0.43067655807339306
+      }
+    },
+    {
+      "question": "How was the performance of OMV's chemicals business? Were there any new investments for profitability?",
+      "generated_answer": "In the first quarter of 2025, OMV's chemicals business demonstrated stable performance with a clean operating result of EUR 126 million, indicating that the segment remained almost flat compared to the previous period. This stability was supported by positive market effects of EUR 57 million, primarily driven by the rising olefin indicator margins in the European market. Despite these positives, concerns about the slow recovery in polyolefin prices for 2025 were raised, particularly due to the anticipated increase in new polyethylene projects, especially in China. \n\nRegarding investments for profitability, the company recorded an organic free cash flow of EUR 441 million for the quarter, which suggests effective cash generation despite market volatility. OMV maintained a robust balance sheet, with stable net debt and a low leverage ratio of 12%, allowing for potential reinvestment or strategic acquisitions to bolster profitability. However, specific new investment plans were not mentioned in the provided context. Thus, the ability to leverage its strong cash position alongside any strategic acquisitions, such as the potential acquisition of Nova Chemicals, could be crucial for future profitability and growth within the chemicals sector.",
+      "ground_truth_answer": "OMV's chemicals business in the first quarter of 2025 showed broadly stable performance compared to the same period in 2024, with some positive operational and market developments, but also challenges impacting profitability. Performance highlights: Clean Operating Result was \u20ac126 million \u2014 almost flat compared to Q1 2024. European Business benefited from positive market effects (\u20ac57 million), primarily due to rising olefin indicator margins. Inventory effects were still positive, but \u20ac11 million lower year-over-year. Cracker utilization rate improved from 87% to 90%. Borealis (excluding JVs) contribution declined to \u20ac71 million, impacted by lower inventory valuation effects, decreased like stock advantage, higher customer discounts, higher fixed costs and lower realized polyolefin margins. Polyolefins sales volumes (excluding JVs) increased by 11%. Growth was driven by consumer products and infrastructure, while mobility segment declined in line with market conditions. Joint Ventures (e.g., Borouge) contribution increased to \u20ac45 million, thanks to higher Borouge sales volumes and exclusion of Baystar's result starting in March. This was partially offset by lower polyethylene prices in Asia. Reclassification Gain: One-time positive impact of ~\u20ac40 million from reclassifying Borealis as an asset held for sale, following the March 3 agreement to combine Borealis and Borouge shareholdings into Borouge Group International.",
+      "relevant_chunks": [
+        "Before I will go into the details of the first quarter financial results, let me give you a short update on OMV's strategic progress. At the beginning of March, we reached a major milestone in the implementation of our Strategy 2030. OMV and ADNOC have signed a binding agreement to combine Borealis and Borouge along with the simultaneous acquisition of Nova Chemicals to form a new company Group International.",
+        "Let me now return to the performance of our business segments in the first quarter of this year. Compared to the first quarter of 2024, the clean operating result of chemicals was almost flat at EUR 126 million. In our European business, we recorded positive market effects of EUR 57 million attributable mostly to rising olefin indicator margins.",
+        "Inventory effects were positive but EUR 11 million lower compared to the first quarter of 2024. The utilization rate of our European crackers increased by 3 percentage points to 90%. The contribution of Borealis excluding joint ventures, declined to EUR 71 million. The base chemicals business decreased considerably as higher olefin indicator margins were more than offset by lower inventory valuation effects, a decreased like stock advantage and higher customer discounts. Polyolefins came in lower",
+        "as well, mainly as a result of higher fixed costs and lower realized margins.",
+        "We were able to expand polyolefin sales volumes, excluding joint ventures by 11%. Sales volumes in the consumer products and infrastructure industries increased as more demand was captured, while sales volumes in the mobility industry declined in line with the market sentiment. The contribution of the joint ventures grew to EUR 45 million, mainly due to better Borouge performance and the exclusion of Baystar's result from the clean operating result effective of March",
+        "Overall, the result was positively impacted by around EUR 40 million due to a reclassification of Borealis as an asset held for sale following the signing of the transaction on March 3 to combine the shareholdings of Borealis and Borouge into Borouge Group International."
+      ],
+      "retrieved_chunks": [
+        "Let me now return to the performance of our business segments in the first quarter of this year. Compared to the first quarter of 2024, the clean operating result of chemicals was almost flat at EUR 126 million. In our European business, we recorded positive market effects of EUR 57 million attributable mostly to rising olefin indicator margins.",
+        "the quarter and will discuss OMV's financial performance. Following his presentation, the gentlemen are available to answer your questions.",
+        "a very generous way. And this is the way we want to keep it.\nM&A\nQuestion by Joshua Stone \u2013 UBS:\nCould you expand a little bit on the potential acquisition of Nova Chemicals. What is it about this business that\nmakes it attractive to OMV? When I look at the assets, it's not that much specialty in the mix. I understand there's a\nfeedstock advantage, but are there other synergies to note that you're particularly interested in? And if the deal",
+        "OMV Q4 2024 Conference Call \u2013 Q&A Transcript; February 4, 2025 3\nChemicals\nMargins\nQuestion by Ramchandra Kamath\u2013 Barclays:\nThe price outlook of polyolefins for 2025 suggests that the pace of recovery seems rather slow. And with quite a\nfew new polyethylene projects starting up, particularly in China, I was just wondering if you can think there is supply\nside risk where you possibly see some further pressure on prices or margins for polyolefins.\nAnswer by Alfred Stern:",
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace"
+      ],
+      "rouge_scores": {
+        "rougeL_f1": 0.20512820512820515,
+        "rougeL_precision": 0.21621621621621623,
+        "rougeL_recall": 0.1951219512195122
+      },
+      "relevancy_score": 0.8454656004905701,
+      "faithfulness_score": 0.7333333333333333,
+      "retrieval_scores": {
+        "precision": 0.2,
+        "recall": 0.16666666666666666,
+        "ndcg": 1.0
+      }
+    },
+    {
+      "question": "How did Ukraine's war impact OMV's business? Has there a been gradual decline in perfromance of any of divisions over the multiple quarters?",
+      "generated_answer": "The ongoing conflict in Ukraine has introduced significant uncertainties for OMV, affecting its overall business environment even though the company itself is less export-oriented and not directly impacted by tariffs. The financial health of OMV has been influenced by broader geopolitical tensions, which create volatility in the energy market. This volatility may lead to fluctuations in demand and pricing for gas, potentially straining OMV's operational divisions.\n\nOver the past few quarters, there may have been indirect effects on performance metrics, especially in segments reliant on stable supply chains or those impacted by changes in European energy policies. For instance, the termination of contracts with Gazprom led to heightened working capital requirements in the Gas storage business as OMV had to source alternatives, which may indicate a decline in performance in this division. While OMV's overall financial health remains solid, evidenced by a strong cash position and low leverage ratio, the geopolitical landscape necessitates close monitoring of performance trends across divisions, particularly those susceptible to market volatility and shifting consumer demand patterns.",
+      "ground_truth_answer": "1. Increased Market Volatility and Uncertainty: Peace talks in Ukraine are cited as a source of ongoing uncertainty that limits OMV's visibility into future performance. OMV acknowledges that even though they may not be directly impacted by import tariffs, the global economic ripple effects caused by geopolitical instability\u2014such as the war in Ukraine\u2014are influencing their operations. 2. Pressure on Refining Margins (ADNOC Division): The ADNOC refining division appears to be experiencing a gradual deterioration in performance. Key contributing factors include: Drop in local refining margins, due in part to: Crowded export markets, increased competition from Chinese refineries, electric vehicle adoption reducing domestic fuel demand, and Russian crude being processed in non-EU countries (India, Turkey, Pakistan), circumventing the European ban and re-entering the global supply, increasing competition and downward pressure on margins. This clearly indicates a gradual decline in the ADNOC refining segment over multiple quarters, exacerbated by shifts in global supply chains due to the Ukraine conflict. 3. Diversified Gas Portfolio Shift: OMV's gas supply and trading business moved from reliance on Russian gas arbitrage to a more diversified portfolio. They indicate that margins from this diversified approach may actually be better than those from earlier reliance on Russian gas. This suggests a strategic pivot rather than performance degradation, though it was prompted by disruptions following the Ukraine invasion. 4. Financial Resilience Despite Challenges: Despite the geopolitical and market pressures, OMV reports organic free cash flow of EUR 441 million in Q1 2025. Net debt remained stable, and leverage is low (12%). OMV holds a strong liquidity position (EUR 6.5B cash, EUR 4.2B undrawn facilities). This implies that while certain divisions like refining are struggling, the company as a whole has maintained financial strength, helped in part by its regional business focus and diversification strategy.",
+      "relevant_chunks": [
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace",
+        "talks, which significantly limit our visibility. We do not expect to be directly impacted by the import tariffs and our operations are less export oriented. We primarily produce and sell regionally. However, tariffs will influence the global economic environment and this will, in turn, have an impact on OMV.",
+        "The ADNOC refining performance was clearly deteriorating as the local refining margins have dropped. The reason",
+        "are the crowded export markets in the refining business. We see, on the one hand side, more pressure from Chinese refineries, while the domestic market, specifically when it comes to vehicles, has been conquered at a quite significant pace with electric vehicles. And therefore, fuels are being increasingly exported. On the other side, countries outside of Russia, are processing Russian crude in refineries. And the ban that we see in Europe did not",
+        "really hold. Therefore, there is also competition from Russian products through refineries in India, in Turkey, in Pakistan, etc."
+      ],
+      "retrieved_chunks": [
+        "driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace talks, which significantly limit our visibility. We do not expect to be directly impacted by the import tariffs and our operations are less export oriented. We primarily produce and sell regionally. However, tariffs will influence the global economic environment and this will, in turn, have an impact on OMV.",
+        "the quarter and will discuss OMV's financial performance. Following his presentation, the gentlemen are available to answer your questions.",
+        "As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace",
+        "market situation.\nQuestion by Matthew Lofting \u2013 J.P. Morgan:\nIs there a scenario that working capital requirements on the Gas storage business remain structurally higher than in\nthe past as a side effect of the termination of that Gazprom contract and needing to source alternatives from\nbroader regions?\nOMV Q4 2024 Conference Call \u2013 Q&A Transcript; February 4, 2025 7\nAnswer by Reinhard Florey:",
+        "a strong position to capture the market growth.\nEnergy\nGas supply\nQuestion by Henry Tarr \u2013 Berenberg:\nWould you be willing to sign another contract with Gazprom for gas supply if circumstances changed and the\nopportunity arose? Or would you consider it too big a risk?\nAnswer by Alfred Stern:\nGazprom committed multiple, fundamental contract violations which caused OMV significant damage in 2022. We"
+      ],
+      "rouge_scores": {
+        "rougeL_f1": 0.1719077568134172,
+        "rougeL_precision": 0.23563218390804597,
+        "rougeL_recall": 0.1353135313531353
+      },
+      "relevancy_score": 0.8133829832077026,
+      "faithfulness_score": 0.4,
+      "retrieval_scores": {
+        "precision": 0.4,
+        "recall": 0.4,
+        "ndcg": 0.9197207891481876
+      }
+    }
+  ],
+  "overall_metrics": {
+    "mean_rougeL_f1": 0.22211799831830376,
+    "mean_relevancy_score": 0.862280435860157,
+    "mean_faithfulness_score": 0.4097069597069597,
+    "std_rougeL_f1": 0.08187964989770528,
+    "std_relevancy_score": 0.03894005778404812,
+    "std_faithfulness_score": 0.23234093246755147,
+    "retrieval": {
+      "mean_precision": 0.25,
+      "mean_recall": 0.43333333333333335,
+      "mean_ndcg": 0.8375993368053951,
+      "mean_relevant_retrieved": 1.25
+    }
+  },
+  "run_info": {
+    "run_id": "5b346a8fc1714c978d0853bce5e25ee1",
+    "parameters": {
+      "chunk_size": 500,
+      "chunk_overlap": 100,
+      "top_k": 5,
+      "recontextualize": false
+    },
+    "vectorstore_info": {
+      "status": "loaded",
+      "count": 177,
+      "persist_directory": "/tmp/vector_store_646u0bnz"
+    }
+  }
+}

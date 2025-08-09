@@ -1,0 +1,351 @@
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 1
+OMV Q4 2024 Conference Call – Q&A Transcript
+OMV published its results for Q4 2024 on February 4, 2025. The investor and analyst conference call was broadcast
+as a live audio–webcast at 11:30 am CET. Below is the transcript of the question and answer session, by topic,
+edited for clarity.
+OMV Group 1
+Dividend 1
+M&A 1
+Chemicals 3
+Margins 3
+CAPEX 3
+Utilization rates 4
+Inventory effects 4
+Borouge 4 4
+Baystar 5
+Fuels & Feedstock 5
+Refining margins 5
+Renewable fuels 5
+Energy 6
+Gas supply 6
+Gas storage 6
+Gas & Power
+Eastern Europe 7
+Low Carbon 7
+OMV Group
+Dividend
+Question by Sasikanth Chilukuru – Morgan Stanley:
+How do you decide upon the dividend payout relative to CFFO? This year is 28%, last year 29%. I recognize these are
+small differences but at a 30% CFFO payout, you could have kept the dividend flat year-on-year as well. So, I was
+just wondering what factors do you look into? Slightly related to this, the year-on-year growth rate of the regular
+dividend is also lower at 3.5% this year compared to 5% last year. Again, what does the slowdown in the growth rate
+of the regular dividend imply? Is this a sustainable growth rate that we can think of under current circumstances
+and the current macro environment?
+Answer by Reinhard Florey:
+Regarding the dividends, the percentage that we chose in the range of 20% to 30% once again is a very high
+percentage. So it is in the upper end of the upper half of the range and the difference to the payout ratio in last year
+is only in the decimals. So therefore, we see that this is actually a signal of strength, a signal of confidence that we
+have, that in spite of many challenges that we see in the economic environment, we are rewarding our shareholders
+as we promised and keep the payout ratio at the upper end of the range.
+When it comes to the increase of the regular dividend with our progressive dividend policy, again, we kept our
+promise to increase. And we increased that by EUR 0.10. And again, this is not much different than last year. If you
+put it in percentages, yes, it's slightly lower, but that has a reason. The reason actually is that, of course, the higher
+you get, the more important it is to also keep a certain balance between the additional variable dividend and the
+regular dividend.
+So it is important to send this message that while we introduced three years ago the additional variable element by
+calling it at that time a special dividend. We continued to pay this and we continue to make that a reliable element
+as long as we are below the 30% leverage threshold – from which we are far away currently. And this is important.
+And therefore, it's also important to give this a certain weight and not cut too much by increasing the progressive
+regular dividend. But as you see, we are keeping our promises on the dividend. We are rewarding our shareholders in
+a very generous way. And this is the way we want to keep it.
+M&A
+Question by Joshua Stone – UBS:
+Could you expand a little bit on the potential acquisition of Nova Chemicals. What is it about this business that
+makes it attractive to OMV? When I look at the assets, it's not that much specialty in the mix. I understand there's a
+feedstock advantage, but are there other synergies to note that you're particularly interested in? And if the deal
+does go through, is the intention that OMV will then inject more capital into the joint venture to fund it?
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 2
+Answer by Alfred Stern:
+As we announced a while ago, we continue to negotiate with ADNOC regarding the potential combination of
+Borouge and Borealis and on a equal shares, equal partnership basis. And that joint venture should be a joint growth
+platform for next steps of which potentially we are now considering Nova being such a step.
+This would create a top global company and additional synergies and we would be strengthening the polyolefin
+position through this addition. And as you point out, a strong feedstock portfolio would be there. As we are still in
+ongoing negotiations, I want to refrain from speculating of what the outcome of this could be. I just want to
+emphasize, we are in ongoing and open-ended negotiations and it will require that we find an agreement also with
+ADNOC. And in relation to Nova, there is also the requirement that an agreement is found with Mubdala, as the
+current owner.
+Question by Matthew Smith – Bank of America:
+Could you touch upon the timing of Nova Chemicals and the sort of logic for attempting to include the entity at this
+point in time? Why add it to what seem like quite complex deal negotiations already or should we infer the finer
+details of the potential Borouge-Borealis combination already are in a good place which allow you to sort of move
+on to this discussion?
+Answer by Alfred Stern:
+The idea is really that the future potential joint venture company between Borealis and Borouge would acquire
+Nova. And I think the strategic direction of the potential joint venture is of key importance. We have always said that
+combination needs to be a growth platform for polyolefins and drive that further to become a key player in this
+market. We believe Nova would be a good strategic fit as it would strengthen the JV's position in particular in North
+America. It would further enhance the feedstock position and also allow to extract additional synergies. So again,
+there's a good compelling industrial logic to potentially include Nova as an inorganic growth opportunity. We have
+never put a timeline down for this and we will also not put it at this moment because for us, it's more important to
+make this a value accretive step for OMV.
+Question by Matthew Smith – Bank of America:
+Sticking on the theme of M&A, actually on the E&P business, the Energy segment, production this year stepping
+down on natural declines and as well due to the SapuraOMV disposal. So just wondered how motivated you were to
+replace those barrels via M&A and if you could characterize how you see the market for that at the moment,
+please?
+Answer by Alfred Stern:
+The Malaysia asset produced about 28 kboe/d, so that is the biggest step down in the production for this year with
+300 kboe/d. We have communicated in our strategy and we maintain the goal of 350 kboe/d in 2030. Now, we are
+working diligently on Neptun Deep that will increase the production again. I've also talked about Austria's smaller
+Wittau, and then Haydn-Monn in Norway. We will drive those forward. But with all this, we will probably require
+some inorganic rounding activities in order to get to our 350 kboe/d.
+Question by Giacomo Romeo – Jefferies:
+Can you confirm that if you decide to proceed with the Nova acquisition, you will still seek to maintain joint control
+of the enlarged entity?
+Answer by Alfred Stern:
+As we stated in our ad hoc announcement on July 14, 2023, OMV is pursuing negotiations with ADNOC on a
+potential cooperation with respect to their polyolefin businesses, so that means a combination of Borouge and
+Borealis businesses as equal partners under a jointly controlled listed platform for potential growth acquisitions to
+create a global polyolefin company with a material presence in the key markets. And this has stayed the same.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 3
+Chemicals
+Margins
+Question by Ramchandra Kamath– Barclays:
+The price outlook of polyolefins for 2025 suggests that the pace of recovery seems rather slow. And with quite a
+few new polyethylene projects starting up, particularly in China, I was just wondering if you can think there is supply
+side risk where you possibly see some further pressure on prices or margins for polyolefins.
+Answer by Alfred Stern:
+For 2025 we should at least be at the polyolefin margin level of last year, i.e. for both polyethylene and
+polypropylene above EUR 400/t. Our sales volumes at Borealis, including the sales from joint ventures, will go up by
+another 200 kt to 4.1 mn t. As I highlighted in my speech, it's actually quite amazing that we were able to grow
+volumes by 10% last year, which shows quite some recovery in addition to recovery of the margins in the market.
+That's a key contribution to the improved results. With the high percentage of specialty sales that Borealis has, this
+growth was across specialty and productivity sales. So across all the different segments, which I see as a positive
+sign. At a minimum, we will be above EUR 400/t in 2025.
+CAPEX
+Question by Joshua Stone – UBS:
+On the slowdown of circular chemicals, which you've linked to weaker regulation and less certain environments in
+Europe. But in practice, what does this mean for your [Organic] CAPEX plan over the next five years? Because you've
+allocated around 15% to sustainable chemicals. So how much of that comes out in your view, and which projects are
+most likely impacted?
+Answer by Alfred Stern:
+The slowdown on the circular is quite simply explained. I think the introduction of the Packaging Waste Directive
+was delayed in the EU and the transposition into the national laws was delayed, and this is of course creating a delay
+then in the entire market change. We remain focused on driving forward our activities in the circular economy and
+we believe with our ReOil® technology, we have a very strong technology that allows us to capture the benefits in
+that market. However, it is important for us that we roll this out in synchronization of the market demand as it is
+generated so that we can get the right returns for these projects. So, we will continue to push for the same targets
+but I think some of it will get delayed beyond 2030 to accommodate for this.
+I want to end here with that we just finished building the 16 kt ReOil® plant here and that we are in the start-up
+phase. We have actually been able to produce several hundred tons of pyrolysis oil which is the output, the circular
+feedstock that we make. So we are making good progress on this and we are looking forward to bring this fully on
+stream. And then also create the right co-operations there already on that 16 kt plant with a further look to the next
+size plant to make sure that we can also get double-digit returns on those investments.
+Question by Peter Low – Redburn:
+The CAPEX guidance of EUR 3.6 bn seems a little bit below the guidance at the CMD that implied about
+EUR 3.8 bn/yr in the coming years. Is that due to the slowdown in investment in circular chemicals that you've
+referenced? And if so, should we think that it remains at that slightly lower level going forward?
+Answer by Reinhard Florey:
+For 2025 we are proposing EUR 3.6 bn. We are seeing quite some challenges in the market where we want to keep a
+very strong balance sheet, a very strong cash flow and therefore we will keep a strong discipline in the way how we
+spend. CAPEX efficiency means that we try to be first of all selective and secondly very efficient in the way we
+spend. That is part of our improvement program with more than EUR 500 mn cash flow impact of improvement
+measures. We will also contribute to this from the CAPEX side.
+Sustainability is only one reason for the CAPEX shift. But of course, we are also selective on the return expectations
+that we have on the sustainable projects and therefore, where we are not seeing a perfect market environment at
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 4
+the moment, we may slow down a little bit. However, as Alfred said, this is more of a shift in time than a change of
+philosophy. So this is the way how we want to keep it and respond also to the environment in order to keep a very
+strong balance sheet.
+Utilization rates
+Question by Paul Redman – Exane BNP Paribas:
+You also highlighted that next year you expect utilization rates to be even higher for Chemicals. Could you describe
+what's driving that? Is this part of the de-stocking cycle ending and more customer demand, or is it technical
+improvements at the crackers?
+Answer by Alfred Stern:
+One of the major drivers of the utilization rate is the ramp-up of our Baystar joint venture. We anticipate this to run
+higher utilization rates allowing us to drive things forward and increase sales volumes. In addition, I do see some
+operational improvements and a continued focus in selling volumes on the market. We saw a significant market
+improvement last year, and expect a little bit more of a sideways movement this year that we can use with our
+product portfolio.
+I want to emphasize that, in addition to our more commoditized products, we also have a strong presence in
+specialty products across our portfolio. This includes areas where Borealis is the global market leader, such as the
+energy wire and cable insulation market. We have attractive growth in these markets, supported by solid underlying
+reasons. There are various programs and projects driving demand for these products.
+Inventory effects
+Question by Matthew Lofting – J.P. Morgan:
+Could you talk about your perspectives on the stocking cycle. It seemed like that weakened in the year 2024. How
+have you seen that in Q1 to-date, and what assumptions have you made specifically in the context of your outlook
+and margins in Chemicals for 2025?
+Answer by Alfred Stern:
+Before 2024, we have seen a unique and very long de-stocking cycle, presumably an effect of multiple things
+coming together such as COVID, broken supply chains and increased demand through COVID etc. This was over by
+2024, and we were able to sell about 10% more volumes through Borealis in 2024 and even more in Q4/24 [yoy],
+across all segments. I would see that as a positive signal, because in addition the margins improved, which in total
+creates an even better picture. I would agree that the year-end is always influenced by working capital and storage
+management. So for 2025, we are looking at margins that are at least above the EUR 400/t for polyethylene and
+polypropylene. And additionally we see opportunities to sell higher volumes partly because of the ramp-up of, for
+example, Baystar, but of course, also because of our view of the market.
+Borouge 4
+Question by Sasikanth Chilukuru – Morgan Stanley:
+You reiterated that the Borouge 4 project will be re- contributed to Borouge from ADNOC and Borealis once
+completed. If you were to single out this transaction, what value should we expect for the project? What is the
+expected cash inflow? And when can we expect this to be done as well?
+Answer by Reinhard Florey:
+The concept of Borouge 4 to be recontributed to Borouge has nothing to do with a potential transaction between
+Borealis and Borouge. Please understand that the project is still up and running and we cannot specify an exact
+value of that. But at the moment, 40% of Borouge 4 is held by Borealis, 60% by ADNOC, and that will also be the
+distribution at a re-contribution when it comes to the cash payment from Borouge 4.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 5
+Baystar
+Question by Peter Low – Redburn:
+What is the path to profitability for the Baystar asset? Do you need to see a recovery in industry margins? Are there
+operational improvements still to come there? Perhaps what could that contribution look like?
+Answer by Reinhard Florey:
+Our path to profitability is very clear: It is first getting the operations stable. This means we have made significant
+progress on the cracker facility. We are, as we speak, making significant progress also on the polyethylene plant.
+The polyethylene plant will undergo a maintenance window in the first quarter where we are implementing
+additional optimizations on the operations. In addition to this operational optimization, we look at the commercial
+side. At the moment, we are more or less producing what we can sell in the spot market. And, of course, once we
+have reliable production, we are able to produce more attractive grades that have a broader market, where we can
+also go in yearly or monthly contracts with better margins. Overall, we anticipate an improvement of the EBITDA
+contribution for 2025. And ultimately, when having the ramp-up concluded probably after 2025, we want to achieve
+a level of EUR 500 mn to EUR 600 mn EBITDA from the Baystar facilities.
+Fuels & Feedstock
+Refining margins
+Question by Ramchandra Kamath– Barclays:
+The contribution from ADNOC refining has been rather weak this year. Could you talk a bit about what you think,
+why the performance was weak and what you think the contribution can be for this year?
+Answer by Reinhard Florey:
+The ADNOC refining performance was clearly deteriorating as the local refining margins have dropped. The reason
+are the crowded export markets in the refining business. We see, on the one hand side, more pressure from Chinese
+refineries, while the domestic market, specifically when it comes to vehicles, has been conquered at a quite
+significant pace with electric vehicles. And therefore, fuels are being increasingly exported. On the other side,
+countries outside of Russia, are processing Russian crude in refineries. And the ban that we see in Europe did not
+really hold. Therefore, there is also competition from Russian products through refineries in India, in Turkey, in
+Pakistan, etc. This had an impact on the global markets.
+We also see that, of course, in Europe, some of the refining margins were coming down. 2024 was significantly
+lower than 2023 [USD 7.1/bbl vs USD 11.7/bbl]. Our expectation according to the outlook that Alfred showed you, is
+USD 6/bbl in 2025. At the moment, as we speak in Q1 2025, we are even below that.
+Renewable fuels
+Question by Michele Della Vigna – Goldman Sachs:
+It´s been a very volatile, largely disappointing year, I would say, for biofuel margins in the last 12 months. How do you
+see those evolving? And do you still remain excited about the opportunities for SAF in the years to come?
+Answer by Alfred Stern:
+Indeed, we have seen disappointing margin developments last year due to some regulatory changes in some
+countries and some capacities coming on stream. The FID that we took on our SAF plant [in Petrobrazi] was last
+year, so we are planning to come into production in 2028. Until then we will see the demand, both from regulatory
+side and voluntary demand, pick up, so that there will be a short market position that we want to use.
+The advantage as OMV is that in the corridor in which we are active, we are key supplier to some of the major
+airports, such as Munich, Vienna and Bucharest and we continue to expand our customer portfolio and access to
+different airports to increase the demand side. You might remember that we announced various MoU which we
+continue to convert into sales contracts. We are definitely excited with regards to SAF demand. And with the
+mandates developing this year from 2% in Europe to 6% by 2030, and then 20% by 2035, we do believe that this will
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 6
+represent attractive markets to aim for. We are planning to supply more renewable fuel volumes, the biggest
+portion being SAF, then some biofuels, and then also chemical feedstock. And we think with this portfolio, we are in
+a strong position to capture the market growth.
+Energy
+Gas supply
+Question by Henry Tarr – Berenberg:
+Would you be willing to sign another contract with Gazprom for gas supply if circumstances changed and the
+opportunity arose? Or would you consider it too big a risk?
+Answer by Alfred Stern:
+Gazprom committed multiple, fundamental contract violations which caused OMV significant damage in 2022. We
+initiated arbitration proceedings against Gazprom in the beginning of 2023 for which we received awards, including
+damage awards, at the end of last year. We then offset these damage awards against open payments for gas
+supplies in Austria. And as a consequence of this, Gazprom ceased the supply, which was both a contractual and a
+legal violation, to which we then had to react to and terminated the gas supply contract.
+As you know in the gas market, being able to count on reliable supplies through long-term gas contracts is a key
+prerequisite. And through those multiple contract violations, that was no longer a given with Gazprom for OMV, and
+that was the reason why we terminated the contract. We did not terminate the contract because of sanctions or
+any laws against Russian gas, and still to this date, there are no sanctions or laws against Russian gas supplies.
+However, OMV has learned that relying on a single gas supplier was not a good idea, and this is why we diversified
+our gas supplies. I am of the opinion we now have the strongest gas portfolio that we ever had because it's
+diversified across our own production and third-party suppliers through pipelines from Norway, from Italy, and LNG
+supplies from the U.S., i.e. internationally etc.
+Gas storage
+Question by Giacomo Romeo – Jefferies:
+I think your storage capacity is now close to the level you had at the exit of winter last year. Obviously, wintersummer spreads we've seen do not support injection. What's your plan for injection this year on this basis? What is
+the actual enforcement mechanism in place to make sure that the 90% is reached if the winter summer spreads
+remain negative?
+Answer by Alfred Stern:
+We are currently at about a 65%-67% gas storage level. One year ago it was above 80%. And I think that's a result of
+multiple things. Firstly, the winter this year is colder than it was last year. Or put the other way around, last year was
+an even more unusually warm winter with less gas demand. And secondly, the flows through the Ukrainian pipeline
+to Europe stopped. Those two things have led to a situation where the storage is being depleted. And as you know
+there are some storage mandates, i.e. minimum filling requirements that we will need to fulfill. And we are currently
+working on turning this into a good business case. At the moment, the summer-winter spreads are negative and
+injection is not profitable . It is therefore essential to choose the right timing on refilling the storages to ensure that
+we have a profitable business.
+The gas market is very transparent, so the gas storage levels are visible. Additionally, we need to report to the
+regulator what the storages are. I don't think we have seen cases where the mandate was not fulfilled. So I don't
+know what the measure would be then. There are currently discussions in Germany on how to proceed vis-à-vis the
+market situation.
+Question by Matthew Lofting – J.P. Morgan:
+Is there a scenario that working capital requirements on the Gas storage business remain structurally higher than in
+the past as a side effect of the termination of that Gazprom contract and needing to source alternatives from
+broader regions?
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 7
+Answer by Reinhard Florey:
+I'm not particularly concerned about net working capital on the gas side. We are operating the gas storage business
+as a profitable business and every investment that we put into storage has a very good return. Therefore you see
+temporary higher networking capital if the price level goes up, but that comes back. In addition, we have a quite
+strong swing between high storage levels and low storage levels. I am more concerned about the situation where
+summer-winter spreads do not provide us with the opportunity for a very good foreseeable business because we
+are not storing any cubic meters without having them forward sold. If there is no margin, i.e. no spread, we will not
+forward sell. Currently, we are in a wait-and-see position on how the market develops. However, I am not worried
+that working capital will become an additional burden because it fluctuates, and whatever we put in as working
+capital will come out as working capital in the opposite direction during the year. Therefore, it is a bit of a give and
+take, and we cannot use a specific cut-off date at the end of a quarter or year as the sole guidance for our business.
+What is important for us is how much we can forward sell and the profit we generate from that.
+Question by Paul Redman – Exane BNP Paribas:
+How do we think about the new gas portfolio, not having to take Gazprom volumes, in a cost sense and the
+difference in the contracts between buying off the spot market versus the Gazprom contracts? Does that flow
+through on a cost or cash flow basis at all if you're going out to a market that's currently pricing gas at around
+EUR 50/MWh?
+Answer by Reinhard Florey:
+You asked about potential exposure regarding higher costs in the diversified gas portfolio. Our gas supply and
+trading business is not a cost play, it's a margin and arbitrage play. Therefore, when we compare the specific
+margins and arbitrage that we could do on Russian gas supplies, this is maybe even quite lower than what we see
+with the diversified gas portfolio that we have at the moment.
+So this is not determined by individual market prices or by the indices, it is more by the ability to have trading
+arbitrage and certain supply margins that we have with our customers. And that is not negatively affected. So if the
+availability of gas volumes is there and therefore we have booked transport capacities, we have booked our terminal
+in Rotterdam for LNG volumes absolutely full, we are not concerned that there is also a positive result coming from
+that.
+Gas & Power Eastern Europe
+Question by Henry Tarr – Berenberg:
+What does the gas and power legislation in Romania that you referenced mean going forward for this business?
+Should we expect it to be sort of loss-making now through 2025?
+Answer by Reinhard Florey:
+I can confirm that we are taking all measures in Romania to avoid that this will be a loss- making business. In the
+past, we have been able to provide a good profitability. Of course, it is being deteriorated by some measures from
+the Romanian state, which we view as temporary. And the capping specifically of gas prices for households,
+respectively electricity prices for households, is something that we can counter also with some export activities. So
+we are currently both on the gas side as well as on the electricity side able to export certain volumes to keep this
+business profitable. The additional expansion of our electricity production beyond gas into the renewable side will
+provide a good basis for profitability as those are valued contributions to the electricity market, and would also
+undergo certain exemptions from legislation. So in total, we are not concerned that this will be a loss-making
+business.
+Low Carbon
+Question by Michele Della Vigna – Goldman Sachs:
+I wanted to start with geothermal. You seem to be quite satisfied with the first well drilled there. I was just
+wondering, how material do you think this business could become in terms of EBITDA contribution by, let's say, the
+end of the decade? It's a very exciting business, but I believe it's got quite a long time to market.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 8
+Answer by Alfred Stern:
+We have actually finished drilling the first of three wells for that first pilot production that will supply then about
+20,000 households with geothermal energy through the district heating network of Vienna. That district heating
+network has about 400,000 households connected to it, and we want to ramp that up to about 200,000 households
+supplied through geothermal.
+For this, we have to repeat what we are doing here about 7x in order to get there. So, some development work,
+some investments are necessary, and we want to make sure we do this step- by-step. The advantage that we have
+in Vienna is that we have a great joint venture with our partner Wien Energie, that is the district heating network
+operator and has access to all the households. And because of that setup, I think we have a very good combination. I
+do not have exactly in mind how much the geothermal contribution will be, Michele, but we are looking by 2030 that
+about 20% of our cash flows in total will be contributed out of these sustainable projects.
+D I S C L A I M E R
+This document contains forward looking statements. Forward looking statements usually may be identified by the
+use of terms such as “outlook”, “believe”, “expect”, “anticipate”, “intend”, “plan”, “target”, “objective”, “estimate”, “goal”,
+“may”, “will” and similar terms, or by their context. These forward looking statements are based on beliefs, estimates
+and assumptions currently held by and information currently available to OMV. By their nature, forward looking
+statements are subject to risks and uncertainties, both known and unknown, because they relate to events and
+depend on circumstances that will or may occur in the future and are outside the control of OMV. Consequently, the
+actual results may differ materially from those expressed or implied by the forward looking statements. Therefore,
+recipients of this report are cautioned not to place undue reliance on these forward looking statements. Neither
+OMV nor any other person assumes responsibility for the accuracy and completeness of any of the forward looking
+statements contained in this document. OMV disclaims any obligation and does not intend to update these forward
+looking statements to reflect actual results, revised assumptions and expectations and future developments and
+events. This document does not contain any recommendation or invitation to buy or sell securities in OMV.

@@ -1,0 +1,262 @@
+OMV AG (OTCPK:OMVJF) Q1 2025 Results Conference Call April 30, 2025 5:30 AM ET
+
+Company Participants
+
+Florian Greger - Head, Investor Relations
+Reinhard Florey - Chief Financial Officer
+Berislav Gaso - Executive VP of Energy & Member of Executive Board
+Martijn Arjen van Koten - Executive VP of New Fuels & Feedstock
+
+Conference Call Participants
+
+Josh Stone - UBS
+Ram Kamath - Barclays Bank
+Alejandro Vigil - Santander
+Henry Tarr - Berenberg
+Sasikanth Chilukuru - Morgan Stanley
+Bertrand Hodee - Kepler Cheuvreux
+Matt Smith - Bank of America
+
+Operator
+
+Welcome to the OMV results January-March 2025 Conference Call and Webcast. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+At this time, I would like to refer you to the disclaimer, which includes our position on forward-looking statements. These forward-looking statements are based on beliefs, estimates and assumptions currently held by and information currently available to OMV.
+
+By their nature, forward-looking statements are subject to risks and uncertainties that will or may occur in the future and are outside the control of OMV. Therefore, recipients are cautioned not to place undue reliance on these forward-looking statements. OMV disclaims any obligation and does not intend to update these forward-looking statements to reflect actual results, revised assumptions and expectations and future developments and events.
+
+This presentation does not contain any recommendation or invitation to buy or sell securities in OMV. I would now like to hand the conference over to Mr. Florian Greger, Head of Investor Relations. Please go ahead, Mr. Greger.
+
+Florian Greger
+
+Thank you. Good morning, ladies and gentlemen. Welcome to OMV's earnings call for the first quarter 2025.
+
+With me on the call are our CFO, Reinhard Florey; Martijn van Koten, Executive Vice President, Fuels & Feedstock and Chemicals; and Beri Gaso, Executive Vice President, Energy. Our CEO, Alfred Stern, sends his regards. He is hosting a high-ranking government delegation that is visiting us today and, therefore, cannot participate in today's call. Reinhard will walk you through the highlights of the quarter and will discuss OMV's financial performance. Following his presentation, the gentlemen are available to answer your questions.
+
+And with that, I'll hand it over to Reinhard.
+
+Reinhard Florey
+
+Thank you, Florian. And ladies and gentlemen, good morning, and thank you for joining us. In the first quarter of 2025, the macro environment showed a mix picture with growing concerns about the global economic outlook driven by uncertainties surrounding U.S. trade policy. Oil was part of a broader sell-off, which starts to brief you bit below $70 per barrel in mid-February before posting moderate recovery at the end of the quarter.
+
+European gas prices rallied to the mid-February on large draws on inventories due to elevated demand, but prices eased in the second half of the quarter as LNG inflows increased and as demand tailed off seasonally. The refining indicator margin very volatile, on average, showing some recovery compared to the previous quarter, but it remains significantly below the strong prior year quarter.
+
+Olefin indicator margins improved quarter-on-quarter supported by stronger demand and tighter-than-expected supply due to outages at crackers and refineries. European cracker operating rates saw a significant increase rising from 67% in the fourth quarter of 2024 to 76% in the first quarter of 2025. However, macroeconomic challenges persisted -- the construction sector remains stagnant. The automotive industry experienced only a modest recovery. As a result, the increase in olefin prices could not be fully passed on to customers, leading polyolefin indicator margins to average slightly below the levels of the previous quarter but remaining slightly above the prior year quarter.
+
+Our polyolefin sales volumes, including joint ventures, grew by 10% year-on-year. Fuel sales volumes remained broadly stable, and hydrocarbon production was 12% down year-on-year, impacted by the divestment of our Malaysian assets. Cash flow from operating activities reached almost EUR 1.4 billion, an increase of more than 30% compared with the previous quarter.
+
+Clean CCS operating result was solid, coming in at around EUR 1.2 billion, 22% below the prior year quarter level and 16% lower than the fourth quarter of 2024, which have benefited significantly from the arbitration world in gas marketing in power. Clean CCS earnings per share amounted to EUR 1.26.
+
+Before I will go into the details of the first quarter financial results, let me give you a short update on OMV's strategic progress. At the beginning of March, we reached a major milestone in the implementation of our Strategy 2030. OMV and ADNOC have signed a binding agreement to combine Borealis and Borouge along with the simultaneous acquisition of Nova Chemicals to form a new company Group International. This strategic partnership with ADNOC in polyolefins will bring clear benefits to OMV and our shareholders.
+
+The new company will be the fourth largest polyolefin player globally with access to the largest, most attractive and fastest-growing markets across the Americas, Europe, the Middle East and Asia. It will benefit from a highly competitive cost position with around 70% of its production capacity in feedstock advantaged regions, complemented by a best-in-class specialties business. Following a EUR 1.6 billion cash injection into the new OMV will hold a 36.9% stake in Borouge Group International with equal shareholdings and joint control with ADNOC. Borouge Group International will serve as a substantial platform for organic growth in polyolefins, supported by a robust pipeline of near-term projects. Borouge Group International has tremendous growth potential through the cycle with EBITDA projected to exceed USD 7 billion. In addition, we anticipate substantial synergies of approximately $500 million per annum on a run rate basis by 2030.
+
+These transactions create immediate value for OMV as they are free cash flow and clean CCS EPS accretive. At the same time, OMV maintains its investment-grade credit rating and keeps its leverage ratio well below 30%. The combined strength of the 3 companies will position Borouge Group International well to generate attractive shareholder returns. We expect a lower dividend net to OMV of around $1 billion per year, which will further strengthen OMV's shareholder distributions. We anticipate completing both transactions by the end of the first quarter 2026. The OMV Supervisory Board has also given its approval.
+
+As is customary, closing the transaction is subject to the relevant regulatory approvals. In this case, merger control clearances in markets where the companies sell their products and foreign direct investment clearances in Austria, Canada and the U.S. Until completion, Borealis and Borouge will continue to pay dividends according to their current schedules and commitments.
+
+In Romania, we have reached another major milestone. We have commenced drilling operations at the Neptun Deep project located to 160 kilometers offshore in the Black Sea. The project is progressing very well according to plan and within budget with first gas estimated for 2027. Neptun Deep, the largest offshore gas project in the European Union will add around 70,000 barrels today to our portfolio. In addition, OMV Petrom is advancing exploration activities in the Black Sea at offshore block.
+
+We have also successfully started up oil plant in Austria with an annual processing capacities of up to 16,000 tons of hard-to-recycle plastics. This is a significant milestone in the chemical industry following 15 years of pioneering research and development. Complementing mechanical recycling, reoil processes, plastic waste that would otherwise remain unrecyclable and reintegrate it into the value chain. The ReOil technology is expected to reduce CO2 emissions by up to 34% compared to plastic waste incineration.
+
+We have also secured an EUR 81 million grant from the European Union to support the next phase of our chemical recycling initiative, the industrial scale real plant with a then processing capacity of up to 200,000 tonnes. This morning, we announced the start-up of the green hydrogen plant in Schwechat with an annual capacity of up to 10 megawatts. The green hydrogen will be used to produce more sustainable fuels and chemicals, including sustainable aviation fuels and renewable.
+
+Let me now return to the performance of our business segments in the first quarter of this year. Compared to the first quarter of 2024, the clean operating result of chemicals was almost flat at EUR 126 million. In our European business, we recorded positive market effects of EUR 57 million attributable mostly to rising olefin indicator margins.
+
+Inventory effects were positive but EUR 11 million lower compared to the first quarter of 2024. The utilization rate of our European crackers increased by 3 percentage points to 90%. The contribution of Borealis excluding joint ventures, declined to EUR 71 million. The base chemicals business decreased considerably as higher olefin indicator margins were more than offset by lower inventory valuation effects, a decreased like stock advantage and higher customer discounts. Polyolefins came in lower as well, mainly as a result of higher fixed costs and lower realized margins.
+
+We were able to expand polyolefin sales volumes, excluding joint ventures by 11%. Sales volumes in the consumer products and infrastructure industries increased as more demand was captured, while sales volumes in the mobility industry declined in line with the market sentiment. The contribution of the joint ventures grew to EUR 45 million, mainly due to better Borouge performance and the exclusion of Baystar's result from the clean operating result effective of March. The contribution from Borouge increased following higher sales volumes, while softer polyethylene prices in Asia partly offset this.
+
+Overall, the result was positively impacted by around EUR 40 million due to a reclassification of Borealis as an asset held for sale following the signing of the transaction on March 3 to combine the shareholdings of Borealis and Borouge into Borouge Group International.
+
+The clean CCS operating result of fuels and feedstock declined considerably to EUR 117 million, mainly due to the lower refining indicator margin and a reduced contribution from ADNOC Refining and Global Trading. The European refining indicator margin dropped by $4 per barrel, resulting in a negative impact of EUR 110 million. Overall refining utilization rate improved compared to the first quarter of 2024, driven by higher utilization rates at refineries.
+
+The contribution of the marketing business increased compared to the first quarter of 2024. Retail performance was better due to higher fuel margins and sales volumes as well as stronger performance of the nonfuel business. The result of the commercial business was similar to the first quarter of last year. The contribution of ADNOC Refining and global trading decreased significantly close to a breakeven result, mainly due to a weaker refining margin environment and lower trading results.
+
+The clean operating results of Energy segment declined by EUR 142 million to EUR 910 million as a better E&P result could not compensate for the lower gas marketing and power contribution. The performance of E&P improved, driven by positive market effects of around EUR 14 million. Gas prices rose significantly compared with the first quarter of 2024, while oil prices decreased.
+
+Production volumes declined by 42,000 barrels per day, primarily due to the divestment of the Malaysian assets and natural decline in Norway and New Zealand, partially offset by increased output in media. Production costs increased slightly to $10.1 per barrel due to lower production volumes. Sales volumes decreased in line with production, also impacted by the lifting schedule in Norway and The result of gas marketing and power declined sharply by EUR 102 million, with reductions seen both in east and west. The gas waste result amounted to EUR 120 million, mostly driven by a lower storage results due to decreased summer weaker spreads, partially offset by arbitration award of roughly EUR 50 million for the Austrian supply contract with staining negative, down by EUR 104 million compared to the first quarter 2024, which was primarily due to the change in legislation for the gas and power sector in Romania, which came into effect in April 2024.
+
+At around EUR 1.4 billion cash flow from operating activities was strong, rising by 32% compared with the previous quarter. However, it was 26% below the very strong first quarter of last year, which had benefited from a higher result and higher dividends from ADNOC Refining. Net working capital effects were around neutral. The organic cash flow from investing activities was around EUR 1 billion, mainly related to ordinary ongoing business investments and major growth projects such as NextonDeep, the PDH plant in Belgium and the sorting plant in Germany.
+
+As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace talks, which significantly limit our visibility. We do not expect to be directly impacted by the import tariffs and our operations are less export oriented. We primarily produce and sell regionally. However, tariffs will influence the global economic environment and this will, in turn, have an impact on OMV.
+
+We have adjusted our expectations for the average Brent price for the full year 2025 from $75 to around $70 per barrel. Our assumptions for European natural gas prices remain unchanged. However, we now anticipate the average DRG price for the full year to trend closer to EUR 40 per megawatt.
+
+In the chemicals markets, we saw stronger olefin indicator margins during the first quarter with a further increase in April. However, the potential impact of tariffs implementation on the markets remain uncertain, hence, we are maintaining the full year outlook for olefins and polyolefins provided in February. We expect to grow polyolefin sales volumes of Borealis, excluding joint ventures, to around 4.1 million tonnes, higher an increase of the 200,000 tonnes compared with 2024.
+
+The refining indicator margin has been highly volatile in the first 3 months, peaking in February before trending downward. We continue to project approximately $6 per barrel for the entire year. All other full year assumptions remain unchanged. In the first quarter of 2025, our organic CapEx can be EUR 800 million, significantly below the previous quarter.
+
+We remain highly disciplined in managing our expenditures, both operationally and in terms of investments. Our full year outlook for organic CapEx is unchanged at EUR 3.6 billion lower than the prior year. And we remain strongly committed to our efficiency program, targeting additional cash flow of at least EUR 0.5 billion by 2027. We have already achieved around EUR 180 million last year, and we are well on track to meet our 2027 target.
+
+As highlighted in the trading update following the Borouge Group International deal, the reclassification of Borealis as an asset held for sale is expected to have a positive impact of around EUR 140 million per quarter on the clean operating results. Additionally, the exclusion of the result will further contribute to this positive effect. There will be no effect on cash flow.
+
+We expect substantial dividend payments once again for Borouge. In the second quarter of this year, we are due to receive around EUR 220 million as the second installment for the 2024 dividend. Borouge announced this month that total cash dividends for 2025 will be about $1.3 billion. The first tranche of around EUR 220 million net to OMV will be paid in the fourth quarter of 2025 and the second in 2026.
+
+Thank you for your attention. My colleagues and I will now be happy to take your questions.
+
+Question-and-Answer Session
+
+A - Florian Greger
+
+Thanks a lot, Reinhard. Let's now come to your questions. [Operator Instructions] We start with Josh Stone, UBS.
+
+Josh Stone
+
+There were more volatile environment when everything is it less certain right now. I wanted to understand how you're sort of managing that situation today on the view we may go into a lower price environment. Are there particular mitigating measures you could take in particularly on CapEx? Or is it the case to know your financial frame is such a place that you don't need to weigh on CapEx just yet. So any comments around that would be helpful.
+
+And then second question on the upstream, maybe Beri, but you've talked in the past about adding barrels through acquisitions. I sort of wondered how you're seeing the opportunity set today on that, if any downturn on crude could actually present an opportunity for -- or is it the case you'd rather wait to get the BGI transaction done first before exploring that?
+
+Reinhard Florey
+
+Thanks, Josh. I will take the first question and pass on the second to Beri. As I indicated, we indeed believe that our visibility for the development of the markets are not very high. And therefore, we are, I would say, driving on-site here. Nevertheless, our business is set up as an integrated business and provides significant resilience also to situations like that. We have, however, focused our mitigation measures very much on net working capital improvement measures and on making sure that there is no overruns in CapEx or in other time lines.
+
+What that means is we stick to our promise to have a lower CapEx in 2025 compared to 2024. And we have also anticipated that both the pace and the speed and scope of some of our transformational investments on the path forward will be adjusted to the current situation. We are not changing the direction but we are changing pace and scope as we are seeing the market developing currently slightly slower and making some of these investments more profitable as they come in later. Now over to Beri.
+
+Berislav Gaso
+
+Thanks for the question, Beri here. Our view on adding inorganically barrels hasn't changed from a strategic perspective? I need to say though, however, that of course, the market out there is changing. We see a slowdown in M&A activities. Now with falling prices, we still see a gap in bid ask spread between buyers and sellers, but we are continuing to screen, of course, for assets that could potentially be accretive to our existing portfolio and existing cash flows.
+
+Florian Greger
+
+Thanks, Josh, for your questions. We now come to Ram Kamath from Barclays.
+
+Ram Kamath
+
+I have a couple, please, on chemical side, particularly. So in your remarks, you highlighted that European cracker operating rates have increased in Q1. I think it's around 10% quarter-on-quarter. With current challenges on demand side, how do you see margin evolving in the second quarter? And on the similar line, with oil price coming down, how do you see feedstock costs evolving in the Europe and where you operate?
+
+And how do you see it coming through in terms of -- for your joint venture entities in terms of the volume, sorry, with certain scheduled turnaround in one of your joint ventures.
+
+Reinhard Florey
+
+Yes. Thanks, Ram, for the question. Indeed, when we are looking at the challenges of the market, we are seeing different movements. Some of these movements see slightly lowering demand, specifically when it comes to refinery products. On the other hand, we are seeing opportunities also that the chemicals field could open up some opportunities for volumes.
+
+We have seen a development like that already in the first quarter. We have seen that while refinery margins were very volatile. In principle, they have been stable at the level that gives us the opportunity to also keep up our utilization. Currently, as we speak, we are still on average above refining margin of $6. So this will also give us opportunities for the future.
+
+We, however, have to see that the mix changes. In the first quarter, we have seen more of a mix on the lower end of the refineries, which ends up in lower margins. We see that middle distillates are still partly under pressure with the exception of sustainable aviation fuels and overall kerosene. And we are seeing that there is an opportunity on the chemical side that our petrochemical product can also go on further. We are seeing that olefin prices have now in April come down quite -- come up quite significantly around $100 -- and we are also seeing that specifically in polyethylene, we have seen a $50 improvement. So this means that in general, there are market opportunities as well as some risks that we have to balance.
+
+Regarding the feedstock costs, we still see that the light feedstock advantage that we are having in our Nordic crackers will be slightly lower than what we have seen in the last year, simply because NAFTA will be benefiting from low oil prices, whereas gas prices have been higher, at least in the first quarter. We, on the other hand, have also seen that gas prices have come down at the beginning of second quarter. So the effect then remains to be seen. But in general, I do not see only negative developments here. We are also seeing opportunities in the current market.
+
+Florian Greger
+
+Thanks a lot, Ram, for your questions. We now come to Alejandro Vigil, Santander.
+
+Alejandro Vigil
+
+The first question would be about the ADNOC refining and trading. If you can elaborate about this weak performance you mentioned during the call, if it's more driven by trading less opportunities or it's more on the refining side?
+
+And the second question is about -- of course, you have a very strong balance sheet, but you're going to increase also leverage with the transaction of Borouge If you are planning some divestments as part of your plan for the coming years to offset this increase in leverage.
+
+Reinhard Florey
+
+Yes. Thanks, Alejandro. Maybe I'll start with the second question and pass on to for the first question to answer. Regarding the balance sheet and regarding the leverage -- we are still very confident and see a very strong position of OMV. There is no need for us to divest a business as we have already streamlined our portfolio.
+
+And we are seeing that the additional leverage that we have from the equity injection into BGI will be limited to EUR 1.6 million -- only EUR 1.5 billion, and that is easily within the frame that we have of our leverage target of 30%. We estimate that even after that, we will only be at a leverage rate slightly above 20%. So therefore, there is nothing that we are considering at the moment in terms of major divestments, although the reasonable rendations of our portfolio are normal course of business that will take on.
+
+Martijn Arjen van Koten
+
+Alejandro, this is Martijn. I'll then continue on the ADNOC Refining and Trading question. The 2 main effects driving the drop in results ones refining margin in Middle East and Asia that been significantly lower in Q1 this year versus last year. The trading result has also been lower, but it is still strong in our view, Q1 last year was exceptionally good. And so these 2 effects together make for a tough first quarter. I'll go be finding that the team there is very focused, of course, in this difficult and volatile environment to make the best the trading opportunities, but the refining margin also now in Q2 in the Middle East, it looks very challenging.
+
+That's, of course, driven by a combination of economic uncertainty but it's also driven by a change in the availability of lighter and heavier crudes. Relatively speaking, the heavier crudes are now more expensive. First the lighter crudes and that's another effect that's driving the tough refining environment rather than providing.
+
+Florian Greger
+
+Thanks, Alejandro. We now come to Henry Tarr.
+
+Henry Tarr
+
+I guess the main one is really around the Borouge Group International and the floor dividend. So how robust do you think this is the sort of changes in the macro environment given leverage targets, et cetera, for the combined group? Or I guess another way to ask it would be, what would have to happen for the floor dividend to become a risk at this point?
+
+Reinhard Florey
+
+Yes, Henry, thanks for the question. And I appreciate that the floor dividend is really an attraction for PGI and PI investors among the OMV. Indeed, the floor dividend is adjusted to the business plans that we see ahead even in more riskier scenarios. We do not see that the floor dividend is at risk with the perspective that we have today. The beauty of BGI actually is that it's a global business and that, in general, the presence on the local markets of U.S., of Asia, Middle East and Europe can be played alongside their strength, which means European production for European demand when it comes to specialties, when it comes to high-end plastics where we have an upgrade of the current product portfolio in the U.S. through the new technologies but also in Middle East, when Borouge will come on, we will see that there is a significant addition of both capacity and qualities that can be produced with the latest postal technology there.
+
+And we're also seeing that the current situation in a tariff scenario would not be adverse to this setup because specifically, we see that Middle East currently is not affected by tariffs and also the export from Borouge into the Chinese markets and other Asian markets are not negatively affected. So therefore, we feel that the floor dividend in the business plan that we have, including risk scenarios is not something that we are currently concerned about.
+
+Florian Greger
+
+I was just notified that the next in line dropped. I know it's a very busy reporting day. Currently, there is no other people in the line asking questions. So if you have a follow-up question, you I just hear that there is a follow-up from Josh.
+
+Josh Stone
+
+I thought I'd keep going. On to about tariffs, you mentioned no direct impact or very minimal impact on OMV. Can you maybe just expand on Nova Chemicals and going through the scenarios on that, given they have both U.S. and Canadian assets, it's quite difficult for us to understand what potential impact that might be? And I'm sure you did a lot of audit on that. So maybe you could just talk about that, that would be helpful.
+
+Reinhard Florey
+
+Indeed, in a general note, the exposure to tariffs as we see it in the narrow sense will be marginal to OMV. The reason simply is that with our supply radius that we have, both on the upstream side and the downstream side. We are not in a cross-continental trade or any cross continental business. On the other hand, when it comes to we are seeing that this global individual setup as such, will rather help to avoid being exposed to tariffs.
+
+Now of course, I understand that you are addressing the topic between Canada and U.S., and we have analyzed that in both the due diligence as well as in the discussions with Nova quite significantly. Currently, even in the current discussions that we are seeing. We are not seeing that the products or polyolefins are being affected between Canada and U.S.
+
+And we are also not seeing that this would be a reasonable measure from the U.S. to take against Canada or vice versa because this is so much interlinked trade, and there are quite some dependencies of industry branches in the U.S. on the Canadian production. So therefore, we see it rather as an unlikely case that there would be a negative effect.
+
+However, we calculate it even in an adverse case if such tariffs would be implemented and we still came only to a small double-digit million in negative impact on that business. So compared with the scope and size of this whole business and the transaction that this seems from today's perspective as marginal.
+
+Florian Greger
+
+Now there is questions from Sasikanth Chilukuru from Morgan Stanley.
+
+Sasikanth Chilukuru
+
+I have two, please. The first 1 was on the current refining market. You've maintained the $6 per barrel than you have highlighted margins being very volatile. I was just wondering what the current levels were that you're seeing right now? What has it what have they been more recently. But also I appreciate if you could provide some color on whether you're seeing any basic changes on demand over the past 1 month, I suppose, how do you look into the demand when you look into 2025, especially the 1 from a distillate.
+
+The second 1 was related to the dividends the dividends to the minority shareholders. I was just wondering what your -- what is your guidance for the dividends you put your minority shareholders for 2025.
+
+Reinhard Florey
+
+Okay. Thanks, Maybe I would ask more time to start with the first question.
+
+Martijn Arjen van Koten
+
+Thank you, for the question. On the refining market, the unfortunately that April is slightly better than the average of the first quarter. So average first quarter $6.7-ish and now $6.4. So it remains a tough environment in the Middle East. It's the same actually also a lower start in Q2 than in the average of Q1.
+
+Now what you have to keep in mind is that, especially in Europe, there's also, of course, inland margins -- and they are also volatile already since Q4 last year. There's different dynamics playing there we see in general, that Jet is doing very well. We also see that the consumers on retail kind of are holding up, but we see some weakness in the business segments. And it's similar to what Reinhard described on polyolefins. So it's a different picture on the Energy segment.
+
+Reinhard Florey
+
+And to your second question regarding dividends from we are currently seeing a shareholding of 75% of tales for OMV and 25% from ADNOC. So the minority shareholder, as you call it, is actually ADNOC. And what we see is that, of course, you see a certain negative cash impact fully consolidated goals in our balance sheet if there is outflow on this 25% when we will receive the dividend.
+
+On the other hand, the opposite is the case in Borouge and in the total dividend that we see receiving from Doug and trading out to ADNOC from Borealis -- this is a positive sale for OMV. And that is why I indicated that this equalization payment and capital injection into BGI, which is anticipated as EUR 1.6 billion will be probably lower at around EUR 1.5 billion after the dividend payouts because that will be adjusted according to the dividends that will flow from both Borealis and Borouge.
+
+Florian Greger
+
+We now move on to Bertrand Hodee.
+
+Bertrand Hodee
+
+Yes. I just have one. So obviously, macro is uncertain, but oil price is still relatively healthy at above $60. We have a lot of uncertainties around future OpEx policy -- and you've kept your 2025 CapEx and change for now. But what is the plan B is if we have a very severe oil price downturn, let's say, toward $40 per barrel. So yes, I wanted to understand how you can flex your CapEx in I would say, a stringent.
+
+Reinhard Florey
+
+Yes. Thanks, Of course, we see a $40 scenario currently is not very likely and we are seeing it more as a remote scenario. Nevertheless, of course, also our company runs risk scenarios, and we run the kind of response possibilities and making sure that we have resilience plans. While this is nothing that we can communicate in any detail, I can assure you that we have 3 levers that we will definitely play on. The first is we are working very intensely on our operating cost optimization and efficiencies which will help us to respond.
+
+The second is, we see flexibility on CapEx, of course, and as you may remember, in 2020, when COVID crisis was hitting the market and oil prices dropped sharply into the direction of $40. We were able to cap our CapEx within this 1 year by more than 30%. So you can see that a company does have this kind of responsiveness as well as this kind of resilience.
+
+And then, of course, it's net working capital. Net working capital is a little bit of a buffer factor that we have when oil prices and margins would come down. So you would see that immediately also the level of net working capital dropping and releasing some of that net working capital into cash, providing a certain reserve and security for the balance sheet but we also have these kind of active responses in our plants. And this is, of course, something we are considering that we are rather currently seeing the span between $60 and $70 with the full year more towards the $70 still then thinking about the $40 of oil price environment as of yet.
+
+Florian Greger
+
+We now come to Matt Smith, Bank of America.
+
+Matt Smith
+
+Two questions from me, please. The first is just a clarification on the Borouge Group International floor dividend, and that was just a simple clarification whether the full dividend or at least to OMV was the -- whether it was 90% of net income, whether that represents the floor or whether it was the EUR 2.2 billion total amount that translated to USD 1 billion to OMV. So that was a simple clarification on the BGI dividend?
+
+And then secondly, I wanted to come on to the chemicals margins not sort of current and certain environment actually thrown up some opportunities. And I think you noted some improvements in some chemical spreads in April, but just wanted to I wondered if you could touch on some of the drivers there, please understand those opportunities. What do you think is driving that and therefore, help us think about the sustainability of that, please?
+
+Reinhard Florey
+
+Yes. Thanks, Matt. Regarding the floor dividend, just to explain in some more detail. The floor dividend for the whole group of PTI is around USD 2.2 billion. Then according to the current situation, OMV would be entitled a share of 46.9% after the anticipated capital increase, this will rather be a share of around 43%. This will then translate into around USD 1 billion or according to the exchange rate around EUR 900 million. That is a net cash inflow to OMV.
+
+And whenever you see the consolidation, you would see more or less the operating cash flow being the net cash flow and the net cash flow being the dividend. That is how the nonconsolidated or equity consolidated method that we will have then the BGI group, including in this transaction.
+
+So you would see as an operating cash flow, the EUR 900 million and as a free cash flow also the EUR 900 million. In Chemicals margins regarding opportunities, whenever we see the possibilities to shift the portfolio towards higher grading that always unlocks an opportunity for higher margins. Currently, we have seen in Q1, rather a decline of our share on the specialties. This is something we aim to reverse for the rest of the year to come back to a quite high share of specialties.
+
+And if we see a certain recovery of the economy, and also a positive pricing of the pre-materials of the feedstock for chemicals. This enables them also a margin uplift that we could realize in the market.
+
+Martijn Arjen van Koten
+
+Matt, maybe -- this is Martijn, just a few extra words because I think what's also good is the resilience that we have. So next to the opportunities that Ryan talked about. We, of course, integrated business model and what we see as the refining margins are weak right at getting lower and especially then for the trackers that we have in Central Europe, in Austria and Germany, we see that the margin then expense. That also gives us certain that integrated model is in resilience. And the same holds true for the.
+
+Florian Greger
+
+We now are at the end of our conference call and would like to thank you for joining us today. Should you have any further questions, please contact the Investor Relations team. We will be happy to help. Goodbye, and have a nice day.

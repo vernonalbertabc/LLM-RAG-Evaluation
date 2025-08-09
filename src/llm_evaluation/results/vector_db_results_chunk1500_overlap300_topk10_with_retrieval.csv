@@ -1,0 +1,708 @@
+chunk_id,content,source,file_path,file_size,name_of_the_file,chunk_id_in_doc,total_chunks_in_doc,recontextualized,original_chunk,recontextualized_answer,num_preceding,num_next,content_length,chunk_size,chunk_overlap,recontextualize,include_title_in_content,question,retrieved,retrieval_rank,retrieval_score
+0,"OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 1
+OMV Q4 2024 Conference Call – Q&A Transcript
+OMV published its results for Q4 2024 on February 4, 2025. The investor and analyst conference call was broadcast
+as a live audio–webcast at 11:30 am CET. Below is the transcript of the question and answer session, by topic,
+edited for clarity.
+OMV Group 1
+Dividend 1
+M&A 1
+Chemicals 3
+Margins 3
+CAPEX 3
+Utilization rates 4
+Inventory effects 4
+Borouge 4 4
+Baystar 5
+Fuels & Feedstock 5
+Refining margins 5
+Renewable fuels 5
+Energy 6
+Gas supply 6
+Gas storage 6
+Gas & Power
+Eastern Europe 7
+Low Carbon 7
+OMV Group
+Dividend
+Question by Sasikanth Chilukuru – Morgan Stanley:
+How do you decide upon the dividend payout relative to CFFO? This year is 28%, last year 29%. I recognize these are
+small differences but at a 30% CFFO payout, you could have kept the dividend flat year-on-year as well. So, I was
+just wondering what factors do you look into? Slightly related to this, the year-on-year growth rate of the regular
+dividend is also lower at 3.5% this year compared to 5% last year. Again, what does the slowdown in the growth rate
+of the regular dividend imply? Is this a sustainable growth rate that we can think of under current circumstances
+and the current macro environment?
+Answer by Reinhard Florey:
+Regarding the dividends, the percentage that we chose in the range of 20% to 30% once again is a very high",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,0,25,False,,,0,0,1424,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,2.0,
+1,"of the regular dividend imply? Is this a sustainable growth rate that we can think of under current circumstances
+and the current macro environment?
+Answer by Reinhard Florey:
+Regarding the dividends, the percentage that we chose in the range of 20% to 30% once again is a very high
+percentage. So it is in the upper end of the upper half of the range and the difference to the payout ratio in last year
+is only in the decimals. So therefore, we see that this is actually a signal of strength, a signal of confidence that we
+have, that in spite of many challenges that we see in the economic environment, we are rewarding our shareholders
+as we promised and keep the payout ratio at the upper end of the range.
+When it comes to the increase of the regular dividend with our progressive dividend policy, again, we kept our
+promise to increase. And we increased that by EUR 0.10. And again, this is not much different than last year. If you
+put it in percentages, yes, it's slightly lower, but that has a reason. The reason actually is that, of course, the higher
+you get, the more important it is to also keep a certain balance between the additional variable dividend and the
+regular dividend.
+So it is important to send this message that while we introduced three years ago the additional variable element by
+calling it at that time a special dividend. We continued to pay this and we continue to make that a reliable element",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,1,25,False,,,0,0,1426,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+2,"regular dividend.
+So it is important to send this message that while we introduced three years ago the additional variable element by
+calling it at that time a special dividend. We continued to pay this and we continue to make that a reliable element
+as long as we are below the 30% leverage threshold – from which we are far away currently. And this is important.
+And therefore, it's also important to give this a certain weight and not cut too much by increasing the progressive
+regular dividend. But as you see, we are keeping our promises on the dividend. We are rewarding our shareholders in
+a very generous way. And this is the way we want to keep it.
+M&A
+Question by Joshua Stone – UBS:
+Could you expand a little bit on the potential acquisition of Nova Chemicals. What is it about this business that
+makes it attractive to OMV? When I look at the assets, it's not that much specialty in the mix. I understand there's a
+feedstock advantage, but are there other synergies to note that you're particularly interested in? And if the deal
+does go through, is the intention that OMV will then inject more capital into the joint venture to fund it?
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 2
+Answer by Alfred Stern:
+As we announced a while ago, we continue to negotiate with ADNOC regarding the potential combination of
+Borouge and Borealis and on a equal shares, equal partnership basis. And that joint venture should be a joint growth",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,2,25,False,,,0,0,1459,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+3,"Answer by Alfred Stern:
+As we announced a while ago, we continue to negotiate with ADNOC regarding the potential combination of
+Borouge and Borealis and on a equal shares, equal partnership basis. And that joint venture should be a joint growth
+platform for next steps of which potentially we are now considering Nova being such a step.
+This would create a top global company and additional synergies and we would be strengthening the polyolefin
+position through this addition. And as you point out, a strong feedstock portfolio would be there. As we are still in
+ongoing negotiations, I want to refrain from speculating of what the outcome of this could be. I just want to
+emphasize, we are in ongoing and open-ended negotiations and it will require that we find an agreement also with
+ADNOC. And in relation to Nova, there is also the requirement that an agreement is found with Mubdala, as the
+current owner.
+Question by Matthew Smith – Bank of America:
+Could you touch upon the timing of Nova Chemicals and the sort of logic for attempting to include the entity at this
+point in time? Why add it to what seem like quite complex deal negotiations already or should we infer the finer
+details of the potential Borouge-Borealis combination already are in a good place which allow you to sort of move
+on to this discussion?
+Answer by Alfred Stern:
+The idea is really that the future potential joint venture company between Borealis and Borouge would acquire",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,3,25,False,,,0,0,1457,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+4,"details of the potential Borouge-Borealis combination already are in a good place which allow you to sort of move
+on to this discussion?
+Answer by Alfred Stern:
+The idea is really that the future potential joint venture company between Borealis and Borouge would acquire
+Nova. And I think the strategic direction of the potential joint venture is of key importance. We have always said that
+combination needs to be a growth platform for polyolefins and drive that further to become a key player in this
+market. We believe Nova would be a good strategic fit as it would strengthen the JV's position in particular in North
+America. It would further enhance the feedstock position and also allow to extract additional synergies. So again,
+there's a good compelling industrial logic to potentially include Nova as an inorganic growth opportunity. We have
+never put a timeline down for this and we will also not put it at this moment because for us, it's more important to
+make this a value accretive step for OMV.
+Question by Matthew Smith – Bank of America:
+Sticking on the theme of M&A, actually on the E&P business, the Energy segment, production this year stepping
+down on natural declines and as well due to the SapuraOMV disposal. So just wondered how motivated you were to
+replace those barrels via M&A and if you could characterize how you see the market for that at the moment,
+please?
+Answer by Alfred Stern:",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,4,25,False,,,0,0,1414,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+5,"down on natural declines and as well due to the SapuraOMV disposal. So just wondered how motivated you were to
+replace those barrels via M&A and if you could characterize how you see the market for that at the moment,
+please?
+Answer by Alfred Stern:
+The Malaysia asset produced about 28 kboe/d, so that is the biggest step down in the production for this year with
+300 kboe/d. We have communicated in our strategy and we maintain the goal of 350 kboe/d in 2030. Now, we are
+working diligently on Neptun Deep that will increase the production again. I've also talked about Austria's smaller
+Wittau, and then Haydn-Monn in Norway. We will drive those forward. But with all this, we will probably require
+some inorganic rounding activities in order to get to our 350 kboe/d.
+Question by Giacomo Romeo – Jefferies:
+Can you confirm that if you decide to proceed with the Nova acquisition, you will still seek to maintain joint control
+of the enlarged entity?
+Answer by Alfred Stern:
+As we stated in our ad hoc announcement on July 14, 2023, OMV is pursuing negotiations with ADNOC on a
+potential cooperation with respect to their polyolefin businesses, so that means a combination of Borouge and
+Borealis businesses as equal partners under a jointly controlled listed platform for potential growth acquisitions to
+create a global polyolefin company with a material presence in the key markets. And this has stayed the same.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 3
+Chemicals",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,5,25,False,,,0,0,1493,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+6,"create a global polyolefin company with a material presence in the key markets. And this has stayed the same.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 3
+Chemicals
+Margins
+Question by Ramchandra Kamath– Barclays:
+The price outlook of polyolefins for 2025 suggests that the pace of recovery seems rather slow. And with quite a
+few new polyethylene projects starting up, particularly in China, I was just wondering if you can think there is supply
+side risk where you possibly see some further pressure on prices or margins for polyolefins.
+Answer by Alfred Stern:
+For 2025 we should at least be at the polyolefin margin level of last year, i.e. for both polyethylene and
+polypropylene above EUR 400/t. Our sales volumes at Borealis, including the sales from joint ventures, will go up by
+another 200 kt to 4.1 mn t. As I highlighted in my speech, it's actually quite amazing that we were able to grow
+volumes by 10% last year, which shows quite some recovery in addition to recovery of the margins in the market.
+That's a key contribution to the improved results. With the high percentage of specialty sales that Borealis has, this
+growth was across specialty and productivity sales. So across all the different segments, which I see as a positive
+sign. At a minimum, we will be above EUR 400/t in 2025.
+CAPEX
+Question by Joshua Stone – UBS:
+On the slowdown of circular chemicals, which you've linked to weaker regulation and less certain environments in",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,6,25,False,,,0,0,1474,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+7,"sign. At a minimum, we will be above EUR 400/t in 2025.
+CAPEX
+Question by Joshua Stone – UBS:
+On the slowdown of circular chemicals, which you've linked to weaker regulation and less certain environments in
+Europe. But in practice, what does this mean for your [Organic] CAPEX plan over the next five years? Because you've
+allocated around 15% to sustainable chemicals. So how much of that comes out in your view, and which projects are
+most likely impacted?
+Answer by Alfred Stern:
+The slowdown on the circular is quite simply explained. I think the introduction of the Packaging Waste Directive
+was delayed in the EU and the transposition into the national laws was delayed, and this is of course creating a delay
+then in the entire market change. We remain focused on driving forward our activities in the circular economy and
+we believe with our ReOil® technology, we have a very strong technology that allows us to capture the benefits in
+that market. However, it is important for us that we roll this out in synchronization of the market demand as it is
+generated so that we can get the right returns for these projects. So, we will continue to push for the same targets
+but I think some of it will get delayed beyond 2030 to accommodate for this.
+I want to end here with that we just finished building the 16 kt ReOil® plant here and that we are in the start-up
+phase. We have actually been able to produce several hundred tons of pyrolysis oil which is the output, the circular",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,7,25,False,,,0,0,1485,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+8,"I want to end here with that we just finished building the 16 kt ReOil® plant here and that we are in the start-up
+phase. We have actually been able to produce several hundred tons of pyrolysis oil which is the output, the circular
+feedstock that we make. So we are making good progress on this and we are looking forward to bring this fully on
+stream. And then also create the right co-operations there already on that 16 kt plant with a further look to the next
+size plant to make sure that we can also get double-digit returns on those investments.
+Question by Peter Low – Redburn:
+The CAPEX guidance of EUR 3.6 bn seems a little bit below the guidance at the CMD that implied about
+EUR 3.8 bn/yr in the coming years. Is that due to the slowdown in investment in circular chemicals that you've
+referenced? And if so, should we think that it remains at that slightly lower level going forward?
+Answer by Reinhard Florey:
+For 2025 we are proposing EUR 3.6 bn. We are seeing quite some challenges in the market where we want to keep a
+very strong balance sheet, a very strong cash flow and therefore we will keep a strong discipline in the way how we
+spend. CAPEX efficiency means that we try to be first of all selective and secondly very efficient in the way we
+spend. That is part of our improvement program with more than EUR 500 mn cash flow impact of improvement
+measures. We will also contribute to this from the CAPEX side.",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,8,25,False,,,0,0,1431,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+9,"spend. CAPEX efficiency means that we try to be first of all selective and secondly very efficient in the way we
+spend. That is part of our improvement program with more than EUR 500 mn cash flow impact of improvement
+measures. We will also contribute to this from the CAPEX side.
+Sustainability is only one reason for the CAPEX shift. But of course, we are also selective on the return expectations
+that we have on the sustainable projects and therefore, where we are not seeing a perfect market environment at
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 4
+the moment, we may slow down a little bit. However, as Alfred said, this is more of a shift in time than a change of
+philosophy. So this is the way how we want to keep it and respond also to the environment in order to keep a very
+strong balance sheet.
+Utilization rates
+Question by Paul Redman – Exane BNP Paribas:
+You also highlighted that next year you expect utilization rates to be even higher for Chemicals. Could you describe
+what's driving that? Is this part of the de-stocking cycle ending and more customer demand, or is it technical
+improvements at the crackers?
+Answer by Alfred Stern:
+One of the major drivers of the utilization rate is the ramp-up of our Baystar joint venture. We anticipate this to run
+higher utilization rates allowing us to drive things forward and increase sales volumes. In addition, I do see some",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,9,25,False,,,0,0,1410,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+10,"improvements at the crackers?
+Answer by Alfred Stern:
+One of the major drivers of the utilization rate is the ramp-up of our Baystar joint venture. We anticipate this to run
+higher utilization rates allowing us to drive things forward and increase sales volumes. In addition, I do see some
+operational improvements and a continued focus in selling volumes on the market. We saw a significant market
+improvement last year, and expect a little bit more of a sideways movement this year that we can use with our
+product portfolio.
+I want to emphasize that, in addition to our more commoditized products, we also have a strong presence in
+specialty products across our portfolio. This includes areas where Borealis is the global market leader, such as the
+energy wire and cable insulation market. We have attractive growth in these markets, supported by solid underlying
+reasons. There are various programs and projects driving demand for these products.
+Inventory effects
+Question by Matthew Lofting – J.P. Morgan:
+Could you talk about your perspectives on the stocking cycle. It seemed like that weakened in the year 2024. How
+have you seen that in Q1 to-date, and what assumptions have you made specifically in the context of your outlook
+and margins in Chemicals for 2025?
+Answer by Alfred Stern:
+Before 2024, we have seen a unique and very long de-stocking cycle, presumably an effect of multiple things",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,10,25,False,,,0,0,1404,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+11,"have you seen that in Q1 to-date, and what assumptions have you made specifically in the context of your outlook
+and margins in Chemicals for 2025?
+Answer by Alfred Stern:
+Before 2024, we have seen a unique and very long de-stocking cycle, presumably an effect of multiple things
+coming together such as COVID, broken supply chains and increased demand through COVID etc. This was over by
+2024, and we were able to sell about 10% more volumes through Borealis in 2024 and even more in Q4/24 [yoy],
+across all segments. I would see that as a positive signal, because in addition the margins improved, which in total
+creates an even better picture. I would agree that the year-end is always influenced by working capital and storage
+management. So for 2025, we are looking at margins that are at least above the EUR 400/t for polyethylene and
+polypropylene. And additionally we see opportunities to sell higher volumes partly because of the ramp-up of, for
+example, Baystar, but of course, also because of our view of the market.
+Borouge 4
+Question by Sasikanth Chilukuru – Morgan Stanley:
+You reiterated that the Borouge 4 project will be re- contributed to Borouge from ADNOC and Borealis once
+completed. If you were to single out this transaction, what value should we expect for the project? What is the
+expected cash inflow? And when can we expect this to be done as well?
+Answer by Reinhard Florey:",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,11,25,False,,,0,0,1402,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+12,"completed. If you were to single out this transaction, what value should we expect for the project? What is the
+expected cash inflow? And when can we expect this to be done as well?
+Answer by Reinhard Florey:
+The concept of Borouge 4 to be recontributed to Borouge has nothing to do with a potential transaction between
+Borealis and Borouge. Please understand that the project is still up and running and we cannot specify an exact
+value of that. But at the moment, 40% of Borouge 4 is held by Borealis, 60% by ADNOC, and that will also be the
+distribution at a re-contribution when it comes to the cash payment from Borouge 4.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 5
+Baystar
+Question by Peter Low – Redburn:
+What is the path to profitability for the Baystar asset? Do you need to see a recovery in industry margins? Are there
+operational improvements still to come there? Perhaps what could that contribution look like?
+Answer by Reinhard Florey:
+Our path to profitability is very clear: It is first getting the operations stable. This means we have made significant
+progress on the cracker facility. We are, as we speak, making significant progress also on the polyethylene plant.
+The polyethylene plant will undergo a maintenance window in the first quarter where we are implementing
+additional optimizations on the operations. In addition to this operational optimization, we look at the commercial",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,12,25,False,,,0,0,1427,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+13,"The polyethylene plant will undergo a maintenance window in the first quarter where we are implementing
+additional optimizations on the operations. In addition to this operational optimization, we look at the commercial
+side. At the moment, we are more or less producing what we can sell in the spot market. And, of course, once we
+have reliable production, we are able to produce more attractive grades that have a broader market, where we can
+also go in yearly or monthly contracts with better margins. Overall, we anticipate an improvement of the EBITDA
+contribution for 2025. And ultimately, when having the ramp-up concluded probably after 2025, we want to achieve
+a level of EUR 500 mn to EUR 600 mn EBITDA from the Baystar facilities.
+Fuels & Feedstock
+Refining margins
+Question by Ramchandra Kamath– Barclays:
+The contribution from ADNOC refining has been rather weak this year. Could you talk a bit about what you think,
+why the performance was weak and what you think the contribution can be for this year?
+Answer by Reinhard Florey:
+The ADNOC refining performance was clearly deteriorating as the local refining margins have dropped. The reason
+are the crowded export markets in the refining business. We see, on the one hand side, more pressure from Chinese
+refineries, while the domestic market, specifically when it comes to vehicles, has been conquered at a quite
+significant pace with electric vehicles. And therefore, fuels are being increasingly exported. On the other side,",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,13,25,False,,,0,0,1492,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+14,"refineries, while the domestic market, specifically when it comes to vehicles, has been conquered at a quite
+significant pace with electric vehicles. And therefore, fuels are being increasingly exported. On the other side,
+countries outside of Russia, are processing Russian crude in refineries. And the ban that we see in Europe did not
+really hold. Therefore, there is also competition from Russian products through refineries in India, in Turkey, in
+Pakistan, etc. This had an impact on the global markets.
+We also see that, of course, in Europe, some of the refining margins were coming down. 2024 was significantly
+lower than 2023 [USD 7.1/bbl vs USD 11.7/bbl]. Our expectation according to the outlook that Alfred showed you, is
+USD 6/bbl in 2025. At the moment, as we speak in Q1 2025, we are even below that.
+Renewable fuels
+Question by Michele Della Vigna – Goldman Sachs:
+It´s been a very volatile, largely disappointing year, I would say, for biofuel margins in the last 12 months. How do you
+see those evolving? And do you still remain excited about the opportunities for SAF in the years to come?
+Answer by Alfred Stern:
+Indeed, we have seen disappointing margin developments last year due to some regulatory changes in some
+countries and some capacities coming on stream. The FID that we took on our SAF plant [in Petrobrazi] was last
+year, so we are planning to come into production in 2028. Until then we will see the demand, both from regulatory",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,14,25,False,,,0,0,1462,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+15,"countries and some capacities coming on stream. The FID that we took on our SAF plant [in Petrobrazi] was last
+year, so we are planning to come into production in 2028. Until then we will see the demand, both from regulatory
+side and voluntary demand, pick up, so that there will be a short market position that we want to use.
+The advantage as OMV is that in the corridor in which we are active, we are key supplier to some of the major
+airports, such as Munich, Vienna and Bucharest and we continue to expand our customer portfolio and access to
+different airports to increase the demand side. You might remember that we announced various MoU which we
+continue to convert into sales contracts. We are definitely excited with regards to SAF demand. And with the
+mandates developing this year from 2% in Europe to 6% by 2030, and then 20% by 2035, we do believe that this will
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 6
+represent attractive markets to aim for. We are planning to supply more renewable fuel volumes, the biggest
+portion being SAF, then some biofuels, and then also chemical feedstock. And we think with this portfolio, we are in
+a strong position to capture the market growth.
+Energy
+Gas supply
+Question by Henry Tarr – Berenberg:
+Would you be willing to sign another contract with Gazprom for gas supply if circumstances changed and the
+opportunity arose? Or would you consider it too big a risk?
+Answer by Alfred Stern:",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,15,25,False,,,0,0,1459,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,9.0,
+16,"a strong position to capture the market growth.
+Energy
+Gas supply
+Question by Henry Tarr – Berenberg:
+Would you be willing to sign another contract with Gazprom for gas supply if circumstances changed and the
+opportunity arose? Or would you consider it too big a risk?
+Answer by Alfred Stern:
+Gazprom committed multiple, fundamental contract violations which caused OMV significant damage in 2022. We
+initiated arbitration proceedings against Gazprom in the beginning of 2023 for which we received awards, including
+damage awards, at the end of last year. We then offset these damage awards against open payments for gas
+supplies in Austria. And as a consequence of this, Gazprom ceased the supply, which was both a contractual and a
+legal violation, to which we then had to react to and terminated the gas supply contract.
+As you know in the gas market, being able to count on reliable supplies through long-term gas contracts is a key
+prerequisite. And through those multiple contract violations, that was no longer a given with Gazprom for OMV, and
+that was the reason why we terminated the contract. We did not terminate the contract because of sanctions or
+any laws against Russian gas, and still to this date, there are no sanctions or laws against Russian gas supplies.
+However, OMV has learned that relying on a single gas supplier was not a good idea, and this is why we diversified
+our gas supplies. I am of the opinion we now have the strongest gas portfolio that we ever had because it's",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,16,25,False,,,0,0,1499,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+17,"However, OMV has learned that relying on a single gas supplier was not a good idea, and this is why we diversified
+our gas supplies. I am of the opinion we now have the strongest gas portfolio that we ever had because it's
+diversified across our own production and third-party suppliers through pipelines from Norway, from Italy, and LNG
+supplies from the U.S., i.e. internationally etc.
+Gas storage
+Question by Giacomo Romeo – Jefferies:
+I think your storage capacity is now close to the level you had at the exit of winter last year. Obviously, wintersummer spreads we've seen do not support injection. What's your plan for injection this year on this basis? What is
+the actual enforcement mechanism in place to make sure that the 90% is reached if the winter summer spreads
+remain negative?
+Answer by Alfred Stern:
+We are currently at about a 65%-67% gas storage level. One year ago it was above 80%. And I think that's a result of
+multiple things. Firstly, the winter this year is colder than it was last year. Or put the other way around, last year was
+an even more unusually warm winter with less gas demand. And secondly, the flows through the Ukrainian pipeline
+to Europe stopped. Those two things have led to a situation where the storage is being depleted. And as you know
+there are some storage mandates, i.e. minimum filling requirements that we will need to fulfill. And we are currently",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,17,25,False,,,0,0,1400,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+18,"to Europe stopped. Those two things have led to a situation where the storage is being depleted. And as you know
+there are some storage mandates, i.e. minimum filling requirements that we will need to fulfill. And we are currently
+working on turning this into a good business case. At the moment, the summer-winter spreads are negative and
+injection is not profitable . It is therefore essential to choose the right timing on refilling the storages to ensure that
+we have a profitable business.
+The gas market is very transparent, so the gas storage levels are visible. Additionally, we need to report to the
+regulator what the storages are. I don't think we have seen cases where the mandate was not fulfilled. So I don't
+know what the measure would be then. There are currently discussions in Germany on how to proceed vis-à-vis the
+market situation.
+Question by Matthew Lofting – J.P. Morgan:
+Is there a scenario that working capital requirements on the Gas storage business remain structurally higher than in
+the past as a side effect of the termination of that Gazprom contract and needing to source alternatives from
+broader regions?
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 7
+Answer by Reinhard Florey:
+I'm not particularly concerned about net working capital on the gas side. We are operating the gas storage business
+as a profitable business and every investment that we put into storage has a very good return. Therefore you see",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,18,25,False,,,0,0,1460,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+19,"Answer by Reinhard Florey:
+I'm not particularly concerned about net working capital on the gas side. We are operating the gas storage business
+as a profitable business and every investment that we put into storage has a very good return. Therefore you see
+temporary higher networking capital if the price level goes up, but that comes back. In addition, we have a quite
+strong swing between high storage levels and low storage levels. I am more concerned about the situation where
+summer-winter spreads do not provide us with the opportunity for a very good foreseeable business because we
+are not storing any cubic meters without having them forward sold. If there is no margin, i.e. no spread, we will not
+forward sell. Currently, we are in a wait-and-see position on how the market develops. However, I am not worried
+that working capital will become an additional burden because it fluctuates, and whatever we put in as working
+capital will come out as working capital in the opposite direction during the year. Therefore, it is a bit of a give and
+take, and we cannot use a specific cut-off date at the end of a quarter or year as the sole guidance for our business.
+What is important for us is how much we can forward sell and the profit we generate from that.
+Question by Paul Redman – Exane BNP Paribas:
+How do we think about the new gas portfolio, not having to take Gazprom volumes, in a cost sense and the",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,19,25,False,,,0,0,1416,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+20,"What is important for us is how much we can forward sell and the profit we generate from that.
+Question by Paul Redman – Exane BNP Paribas:
+How do we think about the new gas portfolio, not having to take Gazprom volumes, in a cost sense and the
+difference in the contracts between buying off the spot market versus the Gazprom contracts? Does that flow
+through on a cost or cash flow basis at all if you're going out to a market that's currently pricing gas at around
+EUR 50/MWh?
+Answer by Reinhard Florey:
+You asked about potential exposure regarding higher costs in the diversified gas portfolio. Our gas supply and
+trading business is not a cost play, it's a margin and arbitrage play. Therefore, when we compare the specific
+margins and arbitrage that we could do on Russian gas supplies, this is maybe even quite lower than what we see
+with the diversified gas portfolio that we have at the moment.
+So this is not determined by individual market prices or by the indices, it is more by the ability to have trading
+arbitrage and certain supply margins that we have with our customers. And that is not negatively affected. So if the
+availability of gas volumes is there and therefore we have booked transport capacities, we have booked our terminal
+in Rotterdam for LNG volumes absolutely full, we are not concerned that there is also a positive result coming from
+that.
+Gas & Power Eastern Europe
+Question by Henry Tarr – Berenberg:",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,20,25,False,,,0,0,1436,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+21,"in Rotterdam for LNG volumes absolutely full, we are not concerned that there is also a positive result coming from
+that.
+Gas & Power Eastern Europe
+Question by Henry Tarr – Berenberg:
+What does the gas and power legislation in Romania that you referenced mean going forward for this business?
+Should we expect it to be sort of loss-making now through 2025?
+Answer by Reinhard Florey:
+I can confirm that we are taking all measures in Romania to avoid that this will be a loss- making business. In the
+past, we have been able to provide a good profitability. Of course, it is being deteriorated by some measures from
+the Romanian state, which we view as temporary. And the capping specifically of gas prices for households,
+respectively electricity prices for households, is something that we can counter also with some export activities. So
+we are currently both on the gas side as well as on the electricity side able to export certain volumes to keep this
+business profitable. The additional expansion of our electricity production beyond gas into the renewable side will
+provide a good basis for profitability as those are valued contributions to the electricity market, and would also
+undergo certain exemptions from legislation. So in total, we are not concerned that this will be a loss-making
+business.
+Low Carbon
+Question by Michele Della Vigna – Goldman Sachs:
+I wanted to start with geothermal. You seem to be quite satisfied with the first well drilled there. I was just",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,21,25,False,,,0,0,1481,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+22,"undergo certain exemptions from legislation. So in total, we are not concerned that this will be a loss-making
+business.
+Low Carbon
+Question by Michele Della Vigna – Goldman Sachs:
+I wanted to start with geothermal. You seem to be quite satisfied with the first well drilled there. I was just
+wondering, how material do you think this business could become in terms of EBITDA contribution by, let's say, the
+end of the decade? It's a very exciting business, but I believe it's got quite a long time to market.
+OMV Q4 2024 Conference Call – Q&A Transcript; February 4, 2025 8
+Answer by Alfred Stern:
+We have actually finished drilling the first of three wells for that first pilot production that will supply then about
+20,000 households with geothermal energy through the district heating network of Vienna. That district heating
+network has about 400,000 households connected to it, and we want to ramp that up to about 200,000 households
+supplied through geothermal.
+For this, we have to repeat what we are doing here about 7x in order to get there. So, some development work,
+some investments are necessary, and we want to make sure we do this step- by-step. The advantage that we have
+in Vienna is that we have a great joint venture with our partner Wien Energie, that is the district heating network
+operator and has access to all the households. And because of that setup, I think we have a very good combination. I",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,22,25,False,,,0,0,1421,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+23,"in Vienna is that we have a great joint venture with our partner Wien Energie, that is the district heating network
+operator and has access to all the households. And because of that setup, I think we have a very good combination. I
+do not have exactly in mind how much the geothermal contribution will be, Michele, but we are looking by 2030 that
+about 20% of our cash flows in total will be contributed out of these sustainable projects.
+D I S C L A I M E R
+This document contains forward looking statements. Forward looking statements usually may be identified by the
+use of terms such as “outlook”, “believe”, “expect”, “anticipate”, “intend”, “plan”, “target”, “objective”, “estimate”, “goal”,
+“may”, “will” and similar terms, or by their context. These forward looking statements are based on beliefs, estimates
+and assumptions currently held by and information currently available to OMV. By their nature, forward looking
+statements are subject to risks and uncertainties, both known and unknown, because they relate to events and
+depend on circumstances that will or may occur in the future and are outside the control of OMV. Consequently, the
+actual results may differ materially from those expressed or implied by the forward looking statements. Therefore,
+recipients of this report are cautioned not to place undue reliance on these forward looking statements. Neither
+OMV nor any other person assumes responsibility for the accuracy and completeness of any of the forward looking",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,23,25,False,,,0,0,1492,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+24,"recipients of this report are cautioned not to place undue reliance on these forward looking statements. Neither
+OMV nor any other person assumes responsibility for the accuracy and completeness of any of the forward looking
+statements contained in this document. OMV disclaims any obligation and does not intend to update these forward
+looking statements to reflect actual results, revised assumptions and expectations and future developments and
+events. This document does not contain any recommendation or invitation to buy or sell securities in OMV.",omv_transcript_2024Q4.txt,../../data/omv_transcript_2024Q4.txt,29465,omv_transcript_2024Q4.txt,24,25,False,,,0,0,553,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,10.0,
+25,"OMV AG (OTCPK:OMVJF) Q1 2025 Results Conference Call April 30, 2025 5:30 AM ET
+
+Company Participants
+
+Florian Greger - Head, Investor Relations
+Reinhard Florey - Chief Financial Officer
+Berislav Gaso - Executive VP of Energy & Member of Executive Board
+Martijn Arjen van Koten - Executive VP of New Fuels & Feedstock
+
+Conference Call Participants
+
+Josh Stone - UBS
+Ram Kamath - Barclays Bank
+Alejandro Vigil - Santander
+Henry Tarr - Berenberg
+Sasikanth Chilukuru - Morgan Stanley
+Bertrand Hodee - Kepler Cheuvreux
+Matt Smith - Bank of America
+
+Operator
+
+Welcome to the OMV results January-March 2025 Conference Call and Webcast. [Operator Instructions] Please be advised that today's conference is being recorded.
+
+At this time, I would like to refer you to the disclaimer, which includes our position on forward-looking statements. These forward-looking statements are based on beliefs, estimates and assumptions currently held by and information currently available to OMV.
+
+By their nature, forward-looking statements are subject to risks and uncertainties that will or may occur in the future and are outside the control of OMV. Therefore, recipients are cautioned not to place undue reliance on these forward-looking statements. OMV disclaims any obligation and does not intend to update these forward-looking statements to reflect actual results, revised assumptions and expectations and future developments and events.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,0,30,False,,,0,0,1425,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,1.0,
+26,"This presentation does not contain any recommendation or invitation to buy or sell securities in OMV. I would now like to hand the conference over to Mr. Florian Greger, Head of Investor Relations. Please go ahead, Mr. Greger.
+
+Florian Greger
+
+Thank you. Good morning, ladies and gentlemen. Welcome to OMV's earnings call for the first quarter 2025.
+
+With me on the call are our CFO, Reinhard Florey; Martijn van Koten, Executive Vice President, Fuels & Feedstock and Chemicals; and Beri Gaso, Executive Vice President, Energy. Our CEO, Alfred Stern, sends his regards. He is hosting a high-ranking government delegation that is visiting us today and, therefore, cannot participate in today's call. Reinhard will walk you through the highlights of the quarter and will discuss OMV's financial performance. Following his presentation, the gentlemen are available to answer your questions.
+
+And with that, I'll hand it over to Reinhard.
+
+Reinhard Florey
+
+Thank you, Florian. And ladies and gentlemen, good morning, and thank you for joining us. In the first quarter of 2025, the macro environment showed a mix picture with growing concerns about the global economic outlook driven by uncertainties surrounding U.S. trade policy. Oil was part of a broader sell-off, which starts to brief you bit below $70 per barrel in mid-February before posting moderate recovery at the end of the quarter.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,1,30,False,,,0,0,1389,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,6.0,
+27,"European gas prices rallied to the mid-February on large draws on inventories due to elevated demand, but prices eased in the second half of the quarter as LNG inflows increased and as demand tailed off seasonally. The refining indicator margin very volatile, on average, showing some recovery compared to the previous quarter, but it remains significantly below the strong prior year quarter.
+
+Olefin indicator margins improved quarter-on-quarter supported by stronger demand and tighter-than-expected supply due to outages at crackers and refineries. European cracker operating rates saw a significant increase rising from 67% in the fourth quarter of 2024 to 76% in the first quarter of 2025. However, macroeconomic challenges persisted -- the construction sector remains stagnant. The automotive industry experienced only a modest recovery. As a result, the increase in olefin prices could not be fully passed on to customers, leading polyolefin indicator margins to average slightly below the levels of the previous quarter but remaining slightly above the prior year quarter.
+
+Our polyolefin sales volumes, including joint ventures, grew by 10% year-on-year. Fuel sales volumes remained broadly stable, and hydrocarbon production was 12% down year-on-year, impacted by the divestment of our Malaysian assets. Cash flow from operating activities reached almost EUR 1.4 billion, an increase of more than 30% compared with the previous quarter.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,2,30,False,,,0,0,1447,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+28,"Clean CCS operating result was solid, coming in at around EUR 1.2 billion, 22% below the prior year quarter level and 16% lower than the fourth quarter of 2024, which have benefited significantly from the arbitration world in gas marketing in power. Clean CCS earnings per share amounted to EUR 1.26.
+
+Before I will go into the details of the first quarter financial results, let me give you a short update on OMV's strategic progress. At the beginning of March, we reached a major milestone in the implementation of our Strategy 2030. OMV and ADNOC have signed a binding agreement to combine Borealis and Borouge along with the simultaneous acquisition of Nova Chemicals to form a new company Group International. This strategic partnership with ADNOC in polyolefins will bring clear benefits to OMV and our shareholders.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,3,30,False,,,0,0,822,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+29,"The new company will be the fourth largest polyolefin player globally with access to the largest, most attractive and fastest-growing markets across the Americas, Europe, the Middle East and Asia. It will benefit from a highly competitive cost position with around 70% of its production capacity in feedstock advantaged regions, complemented by a best-in-class specialties business. Following a EUR 1.6 billion cash injection into the new OMV will hold a 36.9% stake in Borouge Group International with equal shareholdings and joint control with ADNOC. Borouge Group International will serve as a substantial platform for organic growth in polyolefins, supported by a robust pipeline of near-term projects. Borouge Group International has tremendous growth potential through the cycle with EBITDA projected to exceed USD 7 billion. In addition, we anticipate substantial synergies of approximately $500 million per annum on a run rate basis by 2030.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,4,30,False,,,0,0,949,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+30,"These transactions create immediate value for OMV as they are free cash flow and clean CCS EPS accretive. At the same time, OMV maintains its investment-grade credit rating and keeps its leverage ratio well below 30%. The combined strength of the 3 companies will position Borouge Group International well to generate attractive shareholder returns. We expect a lower dividend net to OMV of around $1 billion per year, which will further strengthen OMV's shareholder distributions. We anticipate completing both transactions by the end of the first quarter 2026. The OMV Supervisory Board has also given its approval.
+
+As is customary, closing the transaction is subject to the relevant regulatory approvals. In this case, merger control clearances in markets where the companies sell their products and foreign direct investment clearances in Austria, Canada and the U.S. Until completion, Borealis and Borouge will continue to pay dividends according to their current schedules and commitments.
+
+In Romania, we have reached another major milestone. We have commenced drilling operations at the Neptun Deep project located to 160 kilometers offshore in the Black Sea. The project is progressing very well according to plan and within budget with first gas estimated for 2027. Neptun Deep, the largest offshore gas project in the European Union will add around 70,000 barrels today to our portfolio. In addition, OMV Petrom is advancing exploration activities in the Black Sea at offshore block.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,5,30,False,,,0,0,1495,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,4.0,
+31,"We have also successfully started up oil plant in Austria with an annual processing capacities of up to 16,000 tons of hard-to-recycle plastics. This is a significant milestone in the chemical industry following 15 years of pioneering research and development. Complementing mechanical recycling, reoil processes, plastic waste that would otherwise remain unrecyclable and reintegrate it into the value chain. The ReOil technology is expected to reduce CO2 emissions by up to 34% compared to plastic waste incineration.
+
+We have also secured an EUR 81 million grant from the European Union to support the next phase of our chemical recycling initiative, the industrial scale real plant with a then processing capacity of up to 200,000 tonnes. This morning, we announced the start-up of the green hydrogen plant in Schwechat with an annual capacity of up to 10 megawatts. The green hydrogen will be used to produce more sustainable fuels and chemicals, including sustainable aviation fuels and renewable.
+
+Let me now return to the performance of our business segments in the first quarter of this year. Compared to the first quarter of 2024, the clean operating result of chemicals was almost flat at EUR 126 million. In our European business, we recorded positive market effects of EUR 57 million attributable mostly to rising olefin indicator margins.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,6,30,False,,,0,0,1352,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+32,"Inventory effects were positive but EUR 11 million lower compared to the first quarter of 2024. The utilization rate of our European crackers increased by 3 percentage points to 90%. The contribution of Borealis excluding joint ventures, declined to EUR 71 million. The base chemicals business decreased considerably as higher olefin indicator margins were more than offset by lower inventory valuation effects, a decreased like stock advantage and higher customer discounts. Polyolefins came in lower as well, mainly as a result of higher fixed costs and lower realized margins.
+
+We were able to expand polyolefin sales volumes, excluding joint ventures by 11%. Sales volumes in the consumer products and infrastructure industries increased as more demand was captured, while sales volumes in the mobility industry declined in line with the market sentiment. The contribution of the joint ventures grew to EUR 45 million, mainly due to better Borouge performance and the exclusion of Baystar's result from the clean operating result effective of March. The contribution from Borouge increased following higher sales volumes, while softer polyethylene prices in Asia partly offset this.
+
+Overall, the result was positively impacted by around EUR 40 million due to a reclassification of Borealis as an asset held for sale following the signing of the transaction on March 3 to combine the shareholdings of Borealis and Borouge into Borouge Group International.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,7,30,False,,,0,0,1459,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+33,"Overall, the result was positively impacted by around EUR 40 million due to a reclassification of Borealis as an asset held for sale following the signing of the transaction on March 3 to combine the shareholdings of Borealis and Borouge into Borouge Group International.
+
+The clean CCS operating result of fuels and feedstock declined considerably to EUR 117 million, mainly due to the lower refining indicator margin and a reduced contribution from ADNOC Refining and Global Trading. The European refining indicator margin dropped by $4 per barrel, resulting in a negative impact of EUR 110 million. Overall refining utilization rate improved compared to the first quarter of 2024, driven by higher utilization rates at refineries.
+
+The contribution of the marketing business increased compared to the first quarter of 2024. Retail performance was better due to higher fuel margins and sales volumes as well as stronger performance of the nonfuel business. The result of the commercial business was similar to the first quarter of last year. The contribution of ADNOC Refining and global trading decreased significantly close to a breakeven result, mainly due to a weaker refining margin environment and lower trading results.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,8,30,False,,,0,0,1228,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+34,"The clean operating results of Energy segment declined by EUR 142 million to EUR 910 million as a better E&P result could not compensate for the lower gas marketing and power contribution. The performance of E&P improved, driven by positive market effects of around EUR 14 million. Gas prices rose significantly compared with the first quarter of 2024, while oil prices decreased.
+
+Production volumes declined by 42,000 barrels per day, primarily due to the divestment of the Malaysian assets and natural decline in Norway and New Zealand, partially offset by increased output in media. Production costs increased slightly to $10.1 per barrel due to lower production volumes. Sales volumes decreased in line with production, also impacted by the lifting schedule in Norway and The result of gas marketing and power declined sharply by EUR 102 million, with reductions seen both in east and west. The gas waste result amounted to EUR 120 million, mostly driven by a lower storage results due to decreased summer weaker spreads, partially offset by arbitration award of roughly EUR 50 million for the Austrian supply contract with staining negative, down by EUR 104 million compared to the first quarter 2024, which was primarily due to the change in legislation for the gas and power sector in Romania, which came into effect in April 2024.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,9,30,False,,,0,0,1339,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+35,"At around EUR 1.4 billion cash flow from operating activities was strong, rising by 32% compared with the previous quarter. However, it was 26% below the very strong first quarter of last year, which had benefited from a higher result and higher dividends from ADNOC Refining. Net working capital effects were around neutral. The organic cash flow from investing activities was around EUR 1 billion, mainly related to ordinary ongoing business investments and major growth projects such as NextonDeep, the PDH plant in Belgium and the sorting plant in Germany.
+
+As a result, the organic free cash flow before dividends for the first quarter of 2025 came in at EUR 441 million. Our balance sheet remained very strong. Net debt was stable and our leverage ratio stayed low at 12%. At the end of March, OMV had a cash position of EUR 6.5 billion and EUR 4.2 billion in undrawn committed credit facilities. Looking ahead, we anticipate that volatility will persist, driven by uncertainties surrounding the outcome of ongoing tariff discussions and the Ukraine peace talks, which significantly limit our visibility. We do not expect to be directly impacted by the import tariffs and our operations are less export oriented. We primarily produce and sell regionally. However, tariffs will influence the global economic environment and this will, in turn, have an impact on OMV.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,10,30,False,,,0,0,1371,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,3.0,
+36,"We have adjusted our expectations for the average Brent price for the full year 2025 from $75 to around $70 per barrel. Our assumptions for European natural gas prices remain unchanged. However, we now anticipate the average DRG price for the full year to trend closer to EUR 40 per megawatt.
+
+In the chemicals markets, we saw stronger olefin indicator margins during the first quarter with a further increase in April. However, the potential impact of tariffs implementation on the markets remain uncertain, hence, we are maintaining the full year outlook for olefins and polyolefins provided in February. We expect to grow polyolefin sales volumes of Borealis, excluding joint ventures, to around 4.1 million tonnes, higher an increase of the 200,000 tonnes compared with 2024.
+
+The refining indicator margin has been highly volatile in the first 3 months, peaking in February before trending downward. We continue to project approximately $6 per barrel for the entire year. All other full year assumptions remain unchanged. In the first quarter of 2025, our organic CapEx can be EUR 800 million, significantly below the previous quarter.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,11,30,False,,,0,0,1140,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+37,"We remain highly disciplined in managing our expenditures, both operationally and in terms of investments. Our full year outlook for organic CapEx is unchanged at EUR 3.6 billion lower than the prior year. And we remain strongly committed to our efficiency program, targeting additional cash flow of at least EUR 0.5 billion by 2027. We have already achieved around EUR 180 million last year, and we are well on track to meet our 2027 target.
+
+As highlighted in the trading update following the Borouge Group International deal, the reclassification of Borealis as an asset held for sale is expected to have a positive impact of around EUR 140 million per quarter on the clean operating results. Additionally, the exclusion of the result will further contribute to this positive effect. There will be no effect on cash flow.
+
+We expect substantial dividend payments once again for Borouge. In the second quarter of this year, we are due to receive around EUR 220 million as the second installment for the 2024 dividend. Borouge announced this month that total cash dividends for 2025 will be about $1.3 billion. The first tranche of around EUR 220 million net to OMV will be paid in the fourth quarter of 2025 and the second in 2026.
+
+Thank you for your attention. My colleagues and I will now be happy to take your questions.
+
+Question-and-Answer Session
+
+A - Florian Greger
+
+Thanks a lot, Reinhard. Let's now come to your questions. [Operator Instructions] We start with Josh Stone, UBS.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,12,30,False,,,0,0,1489,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+38,"Thank you for your attention. My colleagues and I will now be happy to take your questions.
+
+Question-and-Answer Session
+
+A - Florian Greger
+
+Thanks a lot, Reinhard. Let's now come to your questions. [Operator Instructions] We start with Josh Stone, UBS.
+
+Josh Stone
+
+There were more volatile environment when everything is it less certain right now. I wanted to understand how you're sort of managing that situation today on the view we may go into a lower price environment. Are there particular mitigating measures you could take in particularly on CapEx? Or is it the case to know your financial frame is such a place that you don't need to weigh on CapEx just yet. So any comments around that would be helpful.
+
+And then second question on the upstream, maybe Beri, but you've talked in the past about adding barrels through acquisitions. I sort of wondered how you're seeing the opportunity set today on that, if any downturn on crude could actually present an opportunity for -- or is it the case you'd rather wait to get the BGI transaction done first before exploring that?
+
+Reinhard Florey",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,13,30,False,,,0,0,1099,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+39,"Reinhard Florey
+
+Thanks, Josh. I will take the first question and pass on the second to Beri. As I indicated, we indeed believe that our visibility for the development of the markets are not very high. And therefore, we are, I would say, driving on-site here. Nevertheless, our business is set up as an integrated business and provides significant resilience also to situations like that. We have, however, focused our mitigation measures very much on net working capital improvement measures and on making sure that there is no overruns in CapEx or in other time lines.
+
+What that means is we stick to our promise to have a lower CapEx in 2025 compared to 2024. And we have also anticipated that both the pace and the speed and scope of some of our transformational investments on the path forward will be adjusted to the current situation. We are not changing the direction but we are changing pace and scope as we are seeing the market developing currently slightly slower and making some of these investments more profitable as they come in later. Now over to Beri.
+
+Berislav Gaso",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,14,30,False,,,0,0,1084,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+40,"Berislav Gaso
+
+Thanks for the question, Beri here. Our view on adding inorganically barrels hasn't changed from a strategic perspective? I need to say though, however, that of course, the market out there is changing. We see a slowdown in M&A activities. Now with falling prices, we still see a gap in bid ask spread between buyers and sellers, but we are continuing to screen, of course, for assets that could potentially be accretive to our existing portfolio and existing cash flows.
+
+Florian Greger
+
+Thanks, Josh, for your questions. We now come to Ram Kamath from Barclays.
+
+Ram Kamath
+
+I have a couple, please, on chemical side, particularly. So in your remarks, you highlighted that European cracker operating rates have increased in Q1. I think it's around 10% quarter-on-quarter. With current challenges on demand side, how do you see margin evolving in the second quarter? And on the similar line, with oil price coming down, how do you see feedstock costs evolving in the Europe and where you operate?
+
+And how do you see it coming through in terms of -- for your joint venture entities in terms of the volume, sorry, with certain scheduled turnaround in one of your joint ventures.
+
+Reinhard Florey",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,15,30,False,,,0,0,1210,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+41,"And how do you see it coming through in terms of -- for your joint venture entities in terms of the volume, sorry, with certain scheduled turnaround in one of your joint ventures.
+
+Reinhard Florey
+
+Yes. Thanks, Ram, for the question. Indeed, when we are looking at the challenges of the market, we are seeing different movements. Some of these movements see slightly lowering demand, specifically when it comes to refinery products. On the other hand, we are seeing opportunities also that the chemicals field could open up some opportunities for volumes.
+
+We have seen a development like that already in the first quarter. We have seen that while refinery margins were very volatile. In principle, they have been stable at the level that gives us the opportunity to also keep up our utilization. Currently, as we speak, we are still on average above refining margin of $6. So this will also give us opportunities for the future.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,16,30,False,,,0,0,929,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+42,"We, however, have to see that the mix changes. In the first quarter, we have seen more of a mix on the lower end of the refineries, which ends up in lower margins. We see that middle distillates are still partly under pressure with the exception of sustainable aviation fuels and overall kerosene. And we are seeing that there is an opportunity on the chemical side that our petrochemical product can also go on further. We are seeing that olefin prices have now in April come down quite -- come up quite significantly around $100 -- and we are also seeing that specifically in polyethylene, we have seen a $50 improvement. So this means that in general, there are market opportunities as well as some risks that we have to balance.
+
+Regarding the feedstock costs, we still see that the light feedstock advantage that we are having in our Nordic crackers will be slightly lower than what we have seen in the last year, simply because NAFTA will be benefiting from low oil prices, whereas gas prices have been higher, at least in the first quarter. We, on the other hand, have also seen that gas prices have come down at the beginning of second quarter. So the effect then remains to be seen. But in general, I do not see only negative developments here. We are also seeing opportunities in the current market.
+
+Florian Greger
+
+Thanks a lot, Ram, for your questions. We now come to Alejandro Vigil, Santander.
+
+Alejandro Vigil",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,17,30,False,,,0,0,1425,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+43,"Florian Greger
+
+Thanks a lot, Ram, for your questions. We now come to Alejandro Vigil, Santander.
+
+Alejandro Vigil
+
+The first question would be about the ADNOC refining and trading. If you can elaborate about this weak performance you mentioned during the call, if it's more driven by trading less opportunities or it's more on the refining side?
+
+And the second question is about -- of course, you have a very strong balance sheet, but you're going to increase also leverage with the transaction of Borouge If you are planning some divestments as part of your plan for the coming years to offset this increase in leverage.
+
+Reinhard Florey
+
+Yes. Thanks, Alejandro. Maybe I'll start with the second question and pass on to for the first question to answer. Regarding the balance sheet and regarding the leverage -- we are still very confident and see a very strong position of OMV. There is no need for us to divest a business as we have already streamlined our portfolio.
+
+And we are seeing that the additional leverage that we have from the equity injection into BGI will be limited to EUR 1.6 million -- only EUR 1.5 billion, and that is easily within the frame that we have of our leverage target of 30%. We estimate that even after that, we will only be at a leverage rate slightly above 20%. So therefore, there is nothing that we are considering at the moment in terms of major divestments, although the reasonable rendations of our portfolio are normal course of business that will take on.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,18,30,False,,,0,0,1498,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,5.0,
+44,"Martijn Arjen van Koten
+
+Alejandro, this is Martijn. I'll then continue on the ADNOC Refining and Trading question. The 2 main effects driving the drop in results ones refining margin in Middle East and Asia that been significantly lower in Q1 this year versus last year. The trading result has also been lower, but it is still strong in our view, Q1 last year was exceptionally good. And so these 2 effects together make for a tough first quarter. I'll go be finding that the team there is very focused, of course, in this difficult and volatile environment to make the best the trading opportunities, but the refining margin also now in Q2 in the Middle East, it looks very challenging.
+
+That's, of course, driven by a combination of economic uncertainty but it's also driven by a change in the availability of lighter and heavier crudes. Relatively speaking, the heavier crudes are now more expensive. First the lighter crudes and that's another effect that's driving the tough refining environment rather than providing.
+
+Florian Greger
+
+Thanks, Alejandro. We now come to Henry Tarr.
+
+Henry Tarr
+
+I guess the main one is really around the Borouge Group International and the floor dividend. So how robust do you think this is the sort of changes in the macro environment given leverage targets, et cetera, for the combined group? Or I guess another way to ask it would be, what would have to happen for the floor dividend to become a risk at this point?
+
+Reinhard Florey",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,19,30,False,,,0,0,1474,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+45,"Reinhard Florey
+
+Yes, Henry, thanks for the question. And I appreciate that the floor dividend is really an attraction for PGI and PI investors among the OMV. Indeed, the floor dividend is adjusted to the business plans that we see ahead even in more riskier scenarios. We do not see that the floor dividend is at risk with the perspective that we have today. The beauty of BGI actually is that it's a global business and that, in general, the presence on the local markets of U.S., of Asia, Middle East and Europe can be played alongside their strength, which means European production for European demand when it comes to specialties, when it comes to high-end plastics where we have an upgrade of the current product portfolio in the U.S. through the new technologies but also in Middle East, when Borouge will come on, we will see that there is a significant addition of both capacity and qualities that can be produced with the latest postal technology there.
+
+And we're also seeing that the current situation in a tariff scenario would not be adverse to this setup because specifically, we see that Middle East currently is not affected by tariffs and also the export from Borouge into the Chinese markets and other Asian markets are not negatively affected. So therefore, we feel that the floor dividend in the business plan that we have, including risk scenarios is not something that we are currently concerned about.
+
+Florian Greger",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,20,30,False,,,0,0,1442,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+46,"Florian Greger
+
+I was just notified that the next in line dropped. I know it's a very busy reporting day. Currently, there is no other people in the line asking questions. So if you have a follow-up question, you I just hear that there is a follow-up from Josh.
+
+Josh Stone
+
+I thought I'd keep going. On to about tariffs, you mentioned no direct impact or very minimal impact on OMV. Can you maybe just expand on Nova Chemicals and going through the scenarios on that, given they have both U.S. and Canadian assets, it's quite difficult for us to understand what potential impact that might be? And I'm sure you did a lot of audit on that. So maybe you could just talk about that, that would be helpful.
+
+Reinhard Florey
+
+Indeed, in a general note, the exposure to tariffs as we see it in the narrow sense will be marginal to OMV. The reason simply is that with our supply radius that we have, both on the upstream side and the downstream side. We are not in a cross-continental trade or any cross continental business. On the other hand, when it comes to we are seeing that this global individual setup as such, will rather help to avoid being exposed to tariffs.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,21,30,False,,,0,0,1164,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+47,"Now of course, I understand that you are addressing the topic between Canada and U.S., and we have analyzed that in both the due diligence as well as in the discussions with Nova quite significantly. Currently, even in the current discussions that we are seeing. We are not seeing that the products or polyolefins are being affected between Canada and U.S.
+
+And we are also not seeing that this would be a reasonable measure from the U.S. to take against Canada or vice versa because this is so much interlinked trade, and there are quite some dependencies of industry branches in the U.S. on the Canadian production. So therefore, we see it rather as an unlikely case that there would be a negative effect.
+
+However, we calculate it even in an adverse case if such tariffs would be implemented and we still came only to a small double-digit million in negative impact on that business. So compared with the scope and size of this whole business and the transaction that this seems from today's perspective as marginal.
+
+Florian Greger
+
+Now there is questions from Sasikanth Chilukuru from Morgan Stanley.
+
+Sasikanth Chilukuru",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,22,30,False,,,0,0,1126,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+48,"Florian Greger
+
+Now there is questions from Sasikanth Chilukuru from Morgan Stanley.
+
+Sasikanth Chilukuru
+
+I have two, please. The first 1 was on the current refining market. You've maintained the $6 per barrel than you have highlighted margins being very volatile. I was just wondering what the current levels were that you're seeing right now? What has it what have they been more recently. But also I appreciate if you could provide some color on whether you're seeing any basic changes on demand over the past 1 month, I suppose, how do you look into the demand when you look into 2025, especially the 1 from a distillate.
+
+The second 1 was related to the dividends the dividends to the minority shareholders. I was just wondering what your -- what is your guidance for the dividends you put your minority shareholders for 2025.
+
+Reinhard Florey
+
+Okay. Thanks, Maybe I would ask more time to start with the first question.
+
+Martijn Arjen van Koten
+
+Thank you, for the question. On the refining market, the unfortunately that April is slightly better than the average of the first quarter. So average first quarter $6.7-ish and now $6.4. So it remains a tough environment in the Middle East. It's the same actually also a lower start in Q2 than in the average of Q1.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,23,30,False,,,0,0,1269,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+49,"Now what you have to keep in mind is that, especially in Europe, there's also, of course, inland margins -- and they are also volatile already since Q4 last year. There's different dynamics playing there we see in general, that Jet is doing very well. We also see that the consumers on retail kind of are holding up, but we see some weakness in the business segments. And it's similar to what Reinhard described on polyolefins. So it's a different picture on the Energy segment.
+
+Reinhard Florey
+
+And to your second question regarding dividends from we are currently seeing a shareholding of 75% of tales for OMV and 25% from ADNOC. So the minority shareholder, as you call it, is actually ADNOC. And what we see is that, of course, you see a certain negative cash impact fully consolidated goals in our balance sheet if there is outflow on this 25% when we will receive the dividend.
+
+On the other hand, the opposite is the case in Borouge and in the total dividend that we see receiving from Doug and trading out to ADNOC from Borealis -- this is a positive sale for OMV. And that is why I indicated that this equalization payment and capital injection into BGI, which is anticipated as EUR 1.6 billion will be probably lower at around EUR 1.5 billion after the dividend payouts because that will be adjusted according to the dividends that will flow from both Borealis and Borouge.
+
+Florian Greger
+
+We now move on to Bertrand Hodee.
+
+Bertrand Hodee",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,24,30,False,,,0,0,1451,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+50,"Florian Greger
+
+We now move on to Bertrand Hodee.
+
+Bertrand Hodee
+
+Yes. I just have one. So obviously, macro is uncertain, but oil price is still relatively healthy at above $60. We have a lot of uncertainties around future OpEx policy -- and you've kept your 2025 CapEx and change for now. But what is the plan B is if we have a very severe oil price downturn, let's say, toward $40 per barrel. So yes, I wanted to understand how you can flex your CapEx in I would say, a stringent.
+
+Reinhard Florey
+
+Yes. Thanks, Of course, we see a $40 scenario currently is not very likely and we are seeing it more as a remote scenario. Nevertheless, of course, also our company runs risk scenarios, and we run the kind of response possibilities and making sure that we have resilience plans. While this is nothing that we can communicate in any detail, I can assure you that we have 3 levers that we will definitely play on. The first is we are working very intensely on our operating cost optimization and efficiencies which will help us to respond.
+
+The second is, we see flexibility on CapEx, of course, and as you may remember, in 2020, when COVID crisis was hitting the market and oil prices dropped sharply into the direction of $40. We were able to cap our CapEx within this 1 year by more than 30%. So you can see that a company does have this kind of responsiveness as well as this kind of resilience.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,25,30,False,,,0,0,1399,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+51,"And then, of course, it's net working capital. Net working capital is a little bit of a buffer factor that we have when oil prices and margins would come down. So you would see that immediately also the level of net working capital dropping and releasing some of that net working capital into cash, providing a certain reserve and security for the balance sheet but we also have these kind of active responses in our plants. And this is, of course, something we are considering that we are rather currently seeing the span between $60 and $70 with the full year more towards the $70 still then thinking about the $40 of oil price environment as of yet.
+
+Florian Greger
+
+We now come to Matt Smith, Bank of America.
+
+Matt Smith
+
+Two questions from me, please. The first is just a clarification on the Borouge Group International floor dividend, and that was just a simple clarification whether the full dividend or at least to OMV was the -- whether it was 90% of net income, whether that represents the floor or whether it was the EUR 2.2 billion total amount that translated to USD 1 billion to OMV. So that was a simple clarification on the BGI dividend?",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,26,30,False,,,0,0,1155,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,7.0,
+52,"And then secondly, I wanted to come on to the chemicals margins not sort of current and certain environment actually thrown up some opportunities. And I think you noted some improvements in some chemical spreads in April, but just wanted to I wondered if you could touch on some of the drivers there, please understand those opportunities. What do you think is driving that and therefore, help us think about the sustainability of that, please?
+
+Reinhard Florey
+
+Yes. Thanks, Matt. Regarding the floor dividend, just to explain in some more detail. The floor dividend for the whole group of PTI is around USD 2.2 billion. Then according to the current situation, OMV would be entitled a share of 46.9% after the anticipated capital increase, this will rather be a share of around 43%. This will then translate into around USD 1 billion or according to the exchange rate around EUR 900 million. That is a net cash inflow to OMV.
+
+And whenever you see the consolidation, you would see more or less the operating cash flow being the net cash flow and the net cash flow being the dividend. That is how the nonconsolidated or equity consolidated method that we will have then the BGI group, including in this transaction.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,27,30,False,,,0,0,1216,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,True,8.0,
+53,"And whenever you see the consolidation, you would see more or less the operating cash flow being the net cash flow and the net cash flow being the dividend. That is how the nonconsolidated or equity consolidated method that we will have then the BGI group, including in this transaction.
+
+So you would see as an operating cash flow, the EUR 900 million and as a free cash flow also the EUR 900 million. In Chemicals margins regarding opportunities, whenever we see the possibilities to shift the portfolio towards higher grading that always unlocks an opportunity for higher margins. Currently, we have seen in Q1, rather a decline of our share on the specialties. This is something we aim to reverse for the rest of the year to come back to a quite high share of specialties.
+
+And if we see a certain recovery of the economy, and also a positive pricing of the pre-materials of the feedstock for chemicals. This enables them also a margin uplift that we could realize in the market.
+
+Martijn Arjen van Koten",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,28,30,False,,,0,0,1008,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,
+54,"And if we see a certain recovery of the economy, and also a positive pricing of the pre-materials of the feedstock for chemicals. This enables them also a margin uplift that we could realize in the market.
+
+Martijn Arjen van Koten
+
+Matt, maybe -- this is Martijn, just a few extra words because I think what's also good is the resilience that we have. So next to the opportunities that Ryan talked about. We, of course, integrated business model and what we see as the refining margins are weak right at getting lower and especially then for the trackers that we have in Central Europe, in Austria and Germany, we see that the margin then expense. That also gives us certain that integrated model is in resilience. And the same holds true for the.
+
+Florian Greger
+
+We now are at the end of our conference call and would like to thank you for joining us today. Should you have any further questions, please contact the Investor Relations team. We will be happy to help. Goodbye, and have a nice day.",omv_transcript_2025Q1.txt,../../data/omv_transcript_2025Q1.txt,36307,omv_transcript_2025Q1.txt,29,30,False,,,0,0,998,1500,300,False,False,What is OMV's current debt level and financial leverage position in 2025?,False,,

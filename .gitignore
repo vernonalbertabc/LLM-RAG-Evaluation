@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.vscode
+.env
+.venv/
+.ruff_cache/
+mlartifacts/
+mlruns/
