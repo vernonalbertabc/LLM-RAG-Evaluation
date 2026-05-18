@@ -5,16 +5,17 @@ from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 import pandas as pd
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAI
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
-from langchain.prompts import PromptTemplate
-from langchain.schema.runnable import RunnablePassthrough, RunnableLambda
+from langchain_core.prompts import PromptTemplate
+from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_openai import ChatOpenAI
+
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 class LangChainRAGPipeline:
