@@ -26,6 +26,7 @@ ragas = "^0.3.0"
 numpy = "<2.0"
 datasets = "^4.0.0"
 chonkie = {extras = ["viz"], version = "^1.1.1"}
+langchain-text-splitters = "^1.1.2"
 
 
 [tool.poetry.group.dev.dependencies]
